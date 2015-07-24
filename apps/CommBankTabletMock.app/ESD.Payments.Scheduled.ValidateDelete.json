@@ -1,0 +1,32 @@
+{
+	"ModifiedScheduledPayment": {
+		"Id": "20252794",
+		"FromAccount": {
+			"AccountName": "Smart Access",
+			"AccountNumber": "062-000 14921122",
+			"AccountNumberUnformatted": "06200014921122",
+			"AccountNumberHash": "6fdbbd0f891353fea2325d3193fe371641a36905",
+			"Description": "fff"
+		},
+		"ToAccount": {
+			"AccountName": "Srini",
+			"AccountNumber": "0120 301245 77578",
+			"AccountNumberHash": "1f477fd786189baddc80d59b60eea9c307823c64",
+			"Description": "fff",
+			"AccountNumberUnformatted": "012030124577578"
+		},
+		"IsBPay": false,
+		"IsGroup": false,
+		"Amount": 3.00,
+		"NextTransferDate": "31/03/2015",
+		"FirstTransferDate": "31/03/2015",
+		"LastTransferDate": "31/01/2016",
+		"RemainingTransfers": 11,
+		"PaymentType": "Payment",
+		"TransferFrequency": "Monthly"
+	},
+	"IsSessionTimeout": false,
+	"ErrorMessages": [],
+	"WarningMessages": [],
+	"IsUnsafeActionDetected": false
+}

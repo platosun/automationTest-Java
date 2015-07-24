@@ -1,0 +1,6 @@
+{
+"pageName": "dashboard",
+"section": "search-exit-modal",
+"tag": "cancel-button", 
+"controlType": "button"
+}

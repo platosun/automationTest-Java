@@ -1,0 +1,14 @@
+{
+    "messages": [],
+	"schedule": {
+		"firstPaymentDate": "20150430",
+		"lastPaymentDate": "20151225",
+		"numberOfPayments": "5",
+		"frequency": "Last Day of Month",
+		"paymentScheduleType": null
+	},
+    "receiptNumber": "N120442510013",
+    "isBalanceRefreshRequired": false,
+    "isSecondAuthorisationRequired": false,
+    "isStepUpRequired": false,
+}

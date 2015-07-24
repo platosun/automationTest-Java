@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><GSARESPONSE><RESULTGROUP collection='netbank_faqs'><GSP VER="3.2">
+    <TM>0.007906</TM><Q>zxccxxc</Q>
+    <PARAM name="access" value="p" original_value="p"/>
+    <PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd"/>
+    <PARAM name="oe" value="UTF-8" original_value="UTF-8"/>
+    <PARAM name="client" value="tablet_ios" original_value="tablet_ios"/>
+    <PARAM name="q" value="zxccxxc" original_value="zxccxxc"/>
+    <PARAM name="filter" value="0" original_value="0"/>
+    <PARAM name="num" value="10" original_value="10"/>
+    <PARAM name="proxyreload" value="1" original_value="1"/>
+    <PARAM name="getfields" value="*" original_value="*"/>
+    <PARAM name="site" value="netbank_faqs" original_value="netbank_faqs"/>
+    <PARAM name="emdvhost" value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/preview?session=" original_value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/preview?session%3D"/>
+    <PARAM name="emmain" value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/simple?query=" original_value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/simple?query%3D"/>
+    <PARAM name="emsingleres" value="http://iis01.commbank.test.cba/cbasearch/resources" original_value="http://iis01.commbank.test.cba/cbasearch/resources"/>
+    <PARAM name="ie" value="UTF-8" original_value="UTF-8"/>
+    <PARAM name="ulang" value="" original_value=""/>
+    <PARAM name="ip" value="10.39.0.100" original_value="10.39.0.100"/>
+    <PARAM name="sort" value="date:D:L:d1" original_value="date:D:L:d1"/>
+    <PARAM name="entqr" value="3" original_value="3"/>
+    <PARAM name="entqrm" value="0" original_value="0"/>
+    <PARAM name="wc" value="200" original_value="200"/>
+    <PARAM name="wc_mc" value="1" original_value="1"/>
+</GSP>
+</RESULTGROUP><RESULTGROUP collection='netbank_community'><GSP VER="3.2">
+    <TM>0.007096</TM><Q>zxccxxc</Q>
+    <PARAM name="access" value="p" original_value="p"/>
+    <PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd"/>
+    <PARAM name="oe" value="UTF-8" original_value="UTF-8"/>
+    <PARAM name="client" value="tablet_ios" original_value="tablet_ios"/>
+    <PARAM name="q" value="zxccxxc" original_value="zxccxxc"/>
+    <PARAM name="filter" value="0" original_value="0"/>
+    <PARAM name="num" value="10" original_value="10"/>
+    <PARAM name="proxyreload" value="1" original_value="1"/>
+    <PARAM name="getfields" value="*" original_value="*"/>
+    <PARAM name="site" value="netbank_community" original_value="netbank_community"/>
+    <PARAM name="emdvhost" value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/preview?session=" original_value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/preview?session%3D"/>
+    <PARAM name="emmain" value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/simple?query=" original_value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/simple?query%3D"/>
+    <PARAM name="emsingleres" value="http://iis01.commbank.test.cba/cbasearch/resources" original_value="http://iis01.commbank.test.cba/cbasearch/resources"/>
+    <PARAM name="ie" value="UTF-8" original_value="UTF-8"/>
+    <PARAM name="ulang" value="" original_value=""/>
+    <PARAM name="ip" value="10.39.0.100" original_value="10.39.0.100"/>
+    <PARAM name="sort" value="date:D:L:d1" original_value="date:D:L:d1"/>
+    <PARAM name="entqr" value="3" original_value="3"/>
+    <PARAM name="entqrm" value="0" original_value="0"/>
+    <PARAM name="wc" value="200" original_value="200"/>
+    <PARAM name="wc_mc" value="1" original_value="1"/>
+</GSP>
+</RESULTGROUP><RESULTGROUP collection='tablet_ios'><GSP VER="3.2">
+    <TM>0.006778</TM><Q>zxccxxc</Q>
+    <PARAM name="access" value="p" original_value="p"/>
+    <PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd"/>
+    <PARAM name="oe" value="UTF-8" original_value="UTF-8"/>
+    <PARAM name="client" value="tablet_ios" original_value="tablet_ios"/>
+    <PARAM name="q" value="zxccxxc" original_value="zxccxxc"/>
+    <PARAM name="filter" value="0" original_value="0"/>
+    <PARAM name="num" value="10" original_value="10"/>
+    <PARAM name="proxyreload" value="1" original_value="1"/>
+    <PARAM name="getfields" value="*" original_value="*"/>
+    <PARAM name="site" value="tablet_ios" original_value="tablet_ios"/>
+    <PARAM name="emdvhost" value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/preview?session=" original_value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/preview?session%3D"/>
+    <PARAM name="emmain" value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/simple?query=" original_value="http://iis01.commbank.test.cba/cbasearch/SearchService.svc/simple?query%3D"/>
+    <PARAM name="emsingleres" value="http://iis01.commbank.test.cba/cbasearch/resources" original_value="http://iis01.commbank.test.cba/cbasearch/resources"/>
+    <PARAM name="ie" value="UTF-8" original_value="UTF-8"/>
+    <PARAM name="ulang" value="" original_value=""/>
+    <PARAM name="ip" value="10.39.0.100" original_value="10.39.0.100"/>
+    <PARAM name="sort" value="date:D:L:d1" original_value="date:D:L:d1"/>
+    <PARAM name="entqr" value="3" original_value="3"/>
+    <PARAM name="entqrm" value="0" original_value="0"/>
+    <PARAM name="wc" value="200" original_value="200"/>
+    <PARAM name="wc_mc" value="1" original_value="1"/>
+</GSP>
+</RESULTGROUP></GSARESPONSE>

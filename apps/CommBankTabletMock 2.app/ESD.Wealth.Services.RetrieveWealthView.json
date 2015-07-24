@@ -1,0 +1,49 @@
+{
+	"AssetsAmount": 2266137,
+	"LoansAmount": -55240,
+	"WealthAmount": 1210897,
+	"AssetsPercent": 0.5,
+	"LoansPercent": -0.04,
+	"WealthPercent": 0.46,
+	"Panels": [{
+		"Percent": 0.2,
+		"PercentLabel": "20%",
+		"ShowOnBoarding": false,
+		"Value": "$135,000.00",
+		"Id": "cash"
+	}, {
+		"Percent": 0.58,
+		"PercentLabel": "58%",
+		"ShowOnBoarding": false,
+		"Value": "$385,000.00",
+		"Id": "property"
+	}, {
+		"Percent": 0.1,
+		"PercentLabel": "10%",
+		"ShowOnBoarding": false,
+		"Value": "$64,000.00",
+		"Id": "super"
+	}, {
+		"Percent": 0.01,
+		"PercentLabel": "1%",
+		"ShowOnBoarding": false,
+		"Value": "$4,137.00",
+		"Id": "share"
+	}, {
+		"Percent": 0.12,
+		"PercentLabel": "12%",
+		"ShowOnBoarding": false,
+		"Value": "$78,000.00",
+		"Id": "other"
+	}, {
+		"Percent": 0,
+		"PercentLabel": "0%",
+		"ShowOnBoarding": false,
+		"Value": "-$55,240.00",
+		"Id": "loan"
+	}],
+	"PriceTimestamp": "13 MAR 2015 - 4:01 PM Sydney Time (20min delayed)",
+	"IsLocked": false,
+	"Notifications": [],
+	"Messages": []
+}

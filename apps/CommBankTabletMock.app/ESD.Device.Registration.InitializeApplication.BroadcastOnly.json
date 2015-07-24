@@ -1,0 +1,13 @@
+{
+    "clientFullName": "Mr LAVINA GHEEN",
+    "termsAndConditions": null,
+    "broadcastMessages": [
+                          {
+                          "composedDate": "30/04/2015",
+                          "messageContent": "Hello! This is a default broadcast message! This is amazing.",
+                          "messageId": 1982,
+                          "quarter": "2ndQuarter"
+                          }
+                          ],
+    "messages": []
+}

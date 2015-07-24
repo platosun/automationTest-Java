@@ -1,0 +1,19 @@
+body {
+    font-family:"ReplicaStd-Light";
+    font-size: 18px;
+    color: #7b7979;
+}
+
+h1, h3, strong {
+    font-family:"ReplicaStd-Regular";
+    color: #393536;
+}
+
+h1 {
+    font-size: 19pt;
+    margin: 70px 0 48px 0;
+}
+
+h3 {
+    font-size: 20px;
+}

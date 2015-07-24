@@ -1,0 +1,10 @@
+{
+ "pageName": "account-detail", 
+ "section": "cards",
+ "subSection": "cards-modal",
+ "tag": "lock-limit-link",
+ "controlType": "text-link"
+ }
+
+ 
+

@@ -1,0 +1,7 @@
+{
+"pageName": "bpay-details", 
+"section": "payments", 
+"subSection": "bpay", 
+"tag": "change-from-account", 
+"controlType": "drop-down-list"
+}

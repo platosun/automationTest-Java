@@ -1,0 +1,11 @@
+{
+    "pagingKey": null,
+    "transactions": null,
+    "messages": [
+                 {
+                 "type": "error",
+                 "code": "Transaction_Integration",
+                 "description": "Transaction information is unavailable right now."
+                 }
+                 ]
+}

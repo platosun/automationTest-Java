@@ -1,0 +1,6 @@
+{
+"pageName": "dashboard",
+"section": "search",
+"tag": "lock-limit-creditcard-payments-link", 
+"controlType": "text-link"
+}

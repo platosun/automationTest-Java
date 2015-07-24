@@ -1,0 +1,8 @@
+{
+"pageName": "error-warn", 
+"section": "payments", 
+"subSection": "transfer", 
+"subSubSection": "pay-later", 
+"tag": "continue-button", 
+"controlType": "button"
+}

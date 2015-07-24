@@ -1,0 +1,10 @@
+{
+    "status":"Enabled",
+    "id":12345,
+    "version": 1,
+    "amount":2000.00,
+    "frequency":"Weekly",
+    "lastSalaryPayDate":"2015-03-27T00:00:00",
+    "nextSalaryPayDate":"2015-04-10T00:00:00",
+    "messages":[]
+}

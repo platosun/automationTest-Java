@@ -1,0 +1,6 @@
+{
+"pageName": "settings", 
+"section": "dashboard", 
+"tag": "auto-log-off-immediately-button", 
+"controlType": "button"
+}

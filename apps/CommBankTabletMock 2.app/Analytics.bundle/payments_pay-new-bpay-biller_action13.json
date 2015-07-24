@@ -1,0 +1,7 @@
+{
+    "pageName": "bpay-error-warn",
+    "section": "payments",
+    "subSection": "pay-new-bpay-biller",
+    "tag": "continue",
+    "controlType": "button"
+}

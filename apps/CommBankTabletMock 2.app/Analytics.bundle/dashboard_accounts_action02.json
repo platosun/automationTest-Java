@@ -1,0 +1,6 @@
+{
+ "pageName": "accounts", 
+ "section": "dashboard", 
+ "tag": "home-button",
+ "controlType": "button"
+ }

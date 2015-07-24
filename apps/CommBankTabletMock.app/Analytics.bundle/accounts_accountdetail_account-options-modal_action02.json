@@ -1,0 +1,9 @@
+{
+"pageName": "account-detail", 
+"section": "accounts", 
+"subSection": "account-options-modal",
+"tag": "statements-link",
+"controlType": "text-link"
+}
+
+

@@ -1,0 +1,6 @@
+{
+"pageName": "settings", 
+"section": "dashboard", 
+"tag": "registered devices-remove-button", 
+"controlType": "button"
+}

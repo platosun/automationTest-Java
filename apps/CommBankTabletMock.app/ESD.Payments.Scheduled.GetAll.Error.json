@@ -1,0 +1,7 @@
+{
+    "ScheduledPayments": [],
+    "IsSessionTimeout": false,
+    "ErrorMessages": ["Something happened, but we are not going to tell you what exactly."],
+    "WarningMessages": [],
+    "IsUnsafeActionDetected": false
+}

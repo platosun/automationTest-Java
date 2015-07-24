@@ -1,0 +1,7 @@
+{
+"pageName": "confirm", 
+"section": "payments", 
+"subSection": "bsb", 
+"tag": "pay-recurring-button", 
+"controlType": "button"
+}

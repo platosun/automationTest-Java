@@ -1,0 +1,6 @@
+{
+"pageName": "settings", 
+"section": "dashboard", 
+"tag": "set-main-account-exit-modal-ok-button", 
+"controlType": "button"
+}

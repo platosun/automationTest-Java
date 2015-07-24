@@ -1,0 +1,7 @@
+{
+    "pageName": "bpay-confirm",
+    "section": "payments",
+    "subSection": "pay-new-bpay-biller",
+    "tag": "pay-later",
+    "controlType": "button"
+}

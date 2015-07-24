@@ -1,0 +1,37 @@
+{
+    "isUnsafeActionDetected": 0,
+    "processedCards": [
+                       {
+                       "activated": 1,
+                       "cardImageName": "Diamond_Master",
+                       "cardNumber": 5523501800000576,
+                       "pinChanged": 1,
+                       "productCode": "MCD",
+                       "cardSequenceNumber": "1"
+                       },
+                       {
+                       "activated": 1,
+                       "cardImageName": "Awards_Gold_Amex",
+                       "cardNumber": 375415180027952,
+                       "pinChanged": 1,
+                       "productCode": "AEX",
+                       "cardSequenceNumber": "1"
+                       },
+                       {
+                       "activated": 1,
+                       "cardImageName": "Awards_Gold_Visa",
+                       "cardNumber": 4564822000000189,
+                       "pinChanged": 0,
+                       "productCode": "VCD",
+                       "cardSequenceNumber": "2"
+                       },
+                       {
+                       "activated": 1,
+                       "cardImageName": "Awards_Gold_Amex",
+                       "cardNumber": 432543254325432,
+                       "pinChanged": 0,
+                       "productCode": "AEX",
+                       "cardSequenceNumber": "2"
+                       }
+                       ]
+}

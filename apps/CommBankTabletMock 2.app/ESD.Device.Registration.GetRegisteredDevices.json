@@ -1,0 +1,38 @@
+{
+    "devices": [
+                {
+                "appVersion": "1.0.0.1321",
+                "deviceType": "RK",
+                "deviceVendor": "Apple",
+                "deviceModel": "iPad4,1",
+                "isVerified": 1,
+                "deviceName": "iPad Air",
+                "osVersion": null,
+                "uniqueDeviceId": "TR3087099675",
+                "lastAuthenticationDate": "22/04/2015 03:46 PM (AEST)",
+                "os": 2
+                }, {
+                "appVersion": "1.0.0.1322",
+                "deviceType": "RK",
+                "deviceVendor": "Apple",
+                "deviceModel": "iPad5,1",
+                "isVerified": 0,
+                "deviceName": "iPad Air 2",
+                "osVersion": null,
+                "uniqueDeviceId": "TR3087099677",
+                "lastAuthenticationDate": "22/04/2015 03:03 PM (AEST)",
+                "os": 2
+                }, {
+                "appVersion": "1.0.0.1323",
+                "deviceType": "SM",
+                "deviceVendor": "Apple",
+                "deviceModel": "Simulator",
+                "isVerified": 1,
+                "deviceName": "My Simulator",
+                "osVersion": null,
+                "uniqueDeviceId": "TR2720251555",
+                "lastAuthenticationDate": "22/04/2015 02:12 PM (AEST)",
+                "os": 3
+                }],
+    "messages": []
+}

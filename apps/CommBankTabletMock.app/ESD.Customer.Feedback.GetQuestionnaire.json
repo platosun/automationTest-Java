@@ -1,0 +1,2027 @@
+{
+    "journeyId": 15,
+    "rootQuestion": {
+        "id": 2,
+        "answers": [
+                    {
+                    "id": 1,
+                    "mappingId": 6,
+                    "linkedQuestion": {
+                    "id": 3,
+                    "answers": [
+                                {
+                                "id": 18,
+                                "mappingId": 21,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 19,
+                                "mappingId": 22,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 11,
+                                "mappingId": 23,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 12,
+                                "mappingId": 24,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 13,
+                                "mappingId": 25,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                }
+                                ]
+                    }
+                    },
+                    {
+                    "id": 2,
+                    "mappingId": 7,
+                    "linkedQuestion": {
+                    "id": 3,
+                    "answers": [
+                                {
+                                "id": 18,
+                                "mappingId": 21,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 19,
+                                "mappingId": 22,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 11,
+                                "mappingId": 23,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 12,
+                                "mappingId": 24,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 13,
+                                "mappingId": 25,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                }
+                                ]
+                    }
+                    },
+                    {
+                    "id": 6,
+                    "mappingId": 8,
+                    "linkedQuestion": {
+                    "id": 4,
+                    "answers": [
+                                {
+                                "id": 14,
+                                "mappingId": 26,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 20,
+                                "mappingId": 27,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 16,
+                                "mappingId": 28,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 15,
+                                "mappingId": 29,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 21,
+                                "mappingId": 30,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 13,
+                                "mappingId": 31,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                }
+                                ]
+                    }
+                    },
+                    {
+                    "id": 7,
+                    "mappingId": 9,
+                    "linkedQuestion": {
+                    "id": 4,
+                    "answers": [
+                                {
+                                "id": 14,
+                                "mappingId": 26,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 20,
+                                "mappingId": 27,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 16,
+                                "mappingId": 28,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 15,
+                                "mappingId": 29,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 21,
+                                "mappingId": 30,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 13,
+                                "mappingId": 31,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                }
+                                ]
+                    }
+                    },
+                    {
+                    "id": 8,
+                    "mappingId": 10,
+                    "linkedQuestion": {
+                    "id": 4,
+                    "answers": [
+                                {
+                                "id": 14,
+                                "mappingId": 26,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 20,
+                                "mappingId": 27,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 16,
+                                "mappingId": 28,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 15,
+                                "mappingId": 29,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 21,
+                                "mappingId": 30,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                },
+                                {
+                                "id": 13,
+                                "mappingId": 31,
+                                "linkedQuestion": {
+                                "id": 6,
+                                "answers": [
+                                            {
+                                            "id": 25,
+                                            "mappingId": 37,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 26,
+                                            "mappingId": 38,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 27,
+                                            "mappingId": 39,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 28,
+                                            "mappingId": 40,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 29,
+                                            "mappingId": 41,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 30,
+                                            "mappingId": 42,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            },
+                                            {
+                                            "id": 13,
+                                            "mappingId": 43,
+                                            "linkedQuestion": {
+                                            "id": 7,
+                                            "answers": []
+                                            }
+                                            }
+                                            ]
+                                }
+                                }
+                                ]
+                    }
+                    }
+                    ]
+    },
+    "questions": [
+                  {
+                  "id": 1,
+                  "text": "What do you think about the Running Balance graph?"
+                  },
+                  {
+                  "id": 2,
+                  "text": "What do you think about the Savings Tracker?"
+                  },
+                  {
+                  "id": 3,
+                  "text": "What do you like about it?"
+                  },
+                  {
+                  "id": 4,
+                  "text": "What don't you like about it?"
+                  },
+                  {
+                  "id": 5,
+                  "text": "How can we make the Running Balance better? (Apply for positive and negative feedback)"
+                  },
+                  {
+                  "id": 6,
+                  "text": "How can we make the Savings Tracker better? (Apply for positive and negative feedback)"
+                  },
+                  {
+                  "id": 7,
+                  "text": "Do you have another idea to make it better? Or an additional comment?"
+                  }
+                  ],
+    "answers": [
+                {
+                "id": 1,
+                "text": "I love it"
+                },
+                {
+                "id": 2,
+                "text": "I like it"
+                },
+                {
+                "id": 3,
+                "text": "It's a nice graphic, but I don't see myself using it."
+                },
+                {
+                "id": 4,
+                "text": "It's annoying and doesn't help me with my banking."
+                },
+                {
+                "id": 5,
+                "text": "Remove it, it interferes with my banking."
+                },
+                {
+                "id": 6,
+                "text": "It's a nice feature, that may be useful for others, but not me."
+                },
+                {
+                "id": 7,
+                "text": "I don't find the Savings Tracker useful. I would like something different."
+                },
+                {
+                "id": 8,
+                "text": "The Savings Tracker is annoying and doesn't help me."
+                },
+                {
+                "id": 9,
+                "text": "It's very helpful. At a glance I can see how my spend changes from day to day."
+                },
+                {
+                "id": 10,
+                "text": "I can quickly find the transactions for a specific day."
+                },
+                {
+                "id": 11,
+                "text": "It makes banking fun."
+                },
+                {
+                "id": 12,
+                "text": "I like that is a visualisation and not just a bunch of numbers."
+                },
+                {
+                "id": 13,
+                "text": "Other"
+                },
+                {
+                "id": 14,
+                "text": "I don't know but I want something different."
+                },
+                {
+                "id": 15,
+                "text": "I don't understand how it works."
+                },
+                {
+                "id": 16,
+                "text": "It doesn't provide value information."
+                },
+                {
+                "id": 17,
+                "text": "It takes up much space in the screen, I prefer to see my transactions."
+                },
+                {
+                "id": 18,
+                "text": "It helps me track how much I can save."
+                },
+                {
+                "id": 19,
+                "text": "It helps me avoid to spend more than I earn."
+                },
+                {
+                "id": 20,
+                "text": "Weekly, fortnightly and monthly cycles does not work for me."
+                },
+                {
+                "id": 21,
+                "text": "I transfer my possible savings to a savings account the first days of my pay cycle so there is nothing to save at the end."
+                },
+                {
+                "id": 22,
+                "text": "I would like to see a summary of my incomes and debits in that period."
+                },
+                {
+                "id": 23,
+                "text": "I would like to see a longer period, maybe 6-12 months."
+                },
+                {
+                "id": 24,
+                "text": "I would like to see my upcoming transactions in the graph."
+                },
+                {
+                "id": 25,
+                "text": "I like it how it is now."
+                },
+                {
+                "id": 26,
+                "text": "I would like to see my saving accumulate over time, how much saved for a longer period."
+                },
+                {
+                "id": 27,
+                "text": "I would like to set a savings goal and get notifications if I am close achieving my goal."
+                },
+                {
+                "id": 28,
+                "text": "I would like the graph to show it as saved instead of spent."
+                },
+                {
+                "id": 29,
+                "text": "Include more pay cycle options, weekly, fortnightly and monthly cycles does not work for me."
+                },
+                {
+                "id": 30,
+                "text": "Record my pay directly from my account."
+                }
+                ],
+    "messages": [],
+    "isUnsafeActionDetected": false
+}

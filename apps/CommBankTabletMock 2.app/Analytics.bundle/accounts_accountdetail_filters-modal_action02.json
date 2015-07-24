@@ -1,0 +1,8 @@
+{
+"pageName": "account-detail", 
+"section": "accounts", 
+"subSection": "filters-modal", 
+"tag": "apply-filter-button",
+"controlType": "button"
+}
+

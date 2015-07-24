@@ -1,0 +1,12 @@
+{
+    "messages": [],
+    "receiptNumber": "N021359168327",
+    "isSuccess": true,
+    "schedule": {
+        "firstPaymentDate": "20150424",
+        "lastPaymentDate": "20161225",
+        "numberOfPayments": "",
+        "frequency": "Weekly",
+        "paymentScheduleType": "More than Once"
+    }
+}

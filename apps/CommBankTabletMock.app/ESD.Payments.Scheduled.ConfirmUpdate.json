@@ -1,0 +1,32 @@
+{
+    "ModifiedScheduledPayment": {
+        "Id": "113436487",
+        "FromAccount": {
+            "AccountName": "Complete Access",
+            "AccountNumber": "060-566 45678923",
+            "AccountNumberUnformatted": "06056645678923",
+            "AccountNumberHash": "8f24c587d705857781302d374e5af139f9d9a0a0",
+            "Description": "test"
+        },
+        "ToAccount": {
+            "AccountName": "abc company",
+            "AccountNumber": "4555 345434 5656",
+            "AccountNumberHash": "9c37f34c2dc6808b0f5cee4c4e4553f0d88c0c97",
+            "Description": "test",
+            "AccountNumberUnformatted": "45553454345656"
+        },
+        "IsBPay": false,
+        "IsGroup": false,
+        "Amount": 0.1,
+        "ReceiptNumber": "N070658013239",
+        "NextTransferDate": "29/11/2019",
+        "FirstTransferDate": "29/11/2019",
+        "LastTransferDate": "29/11/2019",
+        "PaymentType": "Payment",
+        "TransferFrequency": "OnceOnly"
+    },
+    "IsSessionTimeout": false,
+    "ErrorMessages": [],
+    "WarningMessages": [],
+    "IsUnsafeActionDetected": false
+}

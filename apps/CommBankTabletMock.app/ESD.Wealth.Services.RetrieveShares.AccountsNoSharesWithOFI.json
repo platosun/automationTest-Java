@@ -1,0 +1,60 @@
+{
+	"TotalValue": "$395.00",
+	"TodaysChange": "$0.00",
+	"TodaysMovement": "flat",
+	"TodaysPercentage": "0.00%",
+	"TotalProfitLoss": "$195.00",
+	"TotalProfitMovement": "flat",
+	"TotalProfitPercentage": "97.50%",
+    "Accounts":[
+                {
+                "TotalValue":"$0.00",
+                "AccountType":"mywealth",
+                "AccountNumber":"2460189",
+                "Shares":[]
+                },
+                {
+                "TotalValue":"$0.00",
+                "AccountType":"commsec",
+                "AccountNumber":"2460194",
+                "Shares":[]
+                },
+                {
+                "TotalValue":"$395.00",
+                "AccountType":"ofi",
+                "AccountNumber":null,
+                "Shares":[{
+                          "LogoX2Url":"https://content.mywealth.commbank.com.au/content/sdw/global/en/investment-dashboard/c/cba.stocklogo.png",
+                          "LogoUrl":"https://content.mywealth.commbank.com.au/content/sdw/global/en/investment-dashboard/c/cba.stocklogo100.png",
+                          "Code":"CBA",
+                          "Description":"Commonwealth Bank of Australia",
+                          "LastPrice":"$79.000",
+                          "TodaysMovement":"flat",
+                          "TodaysPercentage":"0.00%",
+                          "TodaysChange": "$0.00",
+                          "TotalProfitLoss":"$195.00",
+                          "TotalProfitMovement":"up",
+                          "TotalProfitPercentage":"97.50%",
+                          "TotalValue":"$395.00",
+                          "IsInWatchlist":false,
+                          "AccountHoldings":[
+                                             {
+                                             "AccountName":"Somewhere else",
+                                             "AccountNumber":"",
+                                             "Units":"5",
+                                             "TotalCost":"$200.00",
+                                             "PurchasePrice":"$40.000",
+                                             "PurchaseDate":"02 Sep 2014",
+                                             "PriceTimestamp":null
+                                             }
+                                             ],
+                          "PriceTimestamp":"03 OCT 2014 - 3:10 PM Sydney Time (20min delayed)",
+                          "OfiId":92544504,
+                          "OfiVersion":"1,1",
+                          "LastUpdated":"02 Sep 2014",
+                          "IncludeInPbs": true
+                          }]
+                }
+    ],
+    "PriceTimestamp":"03 OCT 2014 - 3:10 PM Sydney Time"
+}

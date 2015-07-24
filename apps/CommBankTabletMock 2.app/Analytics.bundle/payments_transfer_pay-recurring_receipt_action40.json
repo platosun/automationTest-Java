@@ -1,0 +1,8 @@
+{
+"pageName": "receipt", 
+"section": "payments", 
+"subSection": "transfer", 
+"subSubSection": "pay-recurring", 
+"tag": "share-receipt-button", 
+"controlType": "button"
+}

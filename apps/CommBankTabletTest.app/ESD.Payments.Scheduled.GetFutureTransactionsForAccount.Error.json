@@ -1,0 +1,8 @@
+{
+    "IsSessionTimeout": false,
+    "ErrorMessages": [
+                     "Sorry, something went wrong. Please wait a few moments and try again."
+                      ],
+    "WarningMessages": [],
+    "IsUnsafeActionDetected": false
+}

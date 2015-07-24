@@ -1,0 +1,6 @@
+{
+"pageName": "settings", 
+"section": "dashboard", 
+"tag": "auto-log-off-2-min-button", 
+"controlType": "button"
+}

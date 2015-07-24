@@ -1,0 +1,8 @@
+{
+"pageName": "set-payment-frequency-detailed", 
+"section": "payments", 
+"subSection": "bsb", 
+"subSubSection": "pay-recurring", 
+"tag": "back-button", 
+"controlType": "button"
+}

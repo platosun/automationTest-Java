@@ -1,0 +1,335 @@
+{
+    "ScheduledPayments":[
+                         {
+                         "Id":"20160516",
+                         "FromAccount":{
+                         "AccountName":"Complete Access",
+                         "AccountNumber":"062-000 13292555",
+                         "AccountNumberUnformatted":"06200013292555",
+                         "AccountNumberHash":"938977aaf191df5cc5c8bc32566516dd2dc215bc",
+                         "Description":"FundTrnfrHalfYear"
+                         },
+                         "ToAccount":{
+                         "AccountName":"Smart Access",
+                         "AccountNumber":"062-000 13294649",
+                         "AccountNumberHash":"cee39c775f60479659626f2da7ece7120fd947d6",
+                         "Description":"FundTrnfrHalfYear",
+                         "AccountNumberUnformatted":"06200013294649"
+                         },
+                         "IsBPay":false,
+                         "IsGroup":false,
+                         "Amount":60,
+                         "NextTransferDate":"31/03/2015",
+                         "FirstTransferDate":"31/03/2015",
+                         "PaymentType":"Transfer",
+                         "TransferFrequency":"HalfYearly",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         },
+                         {
+                         "Id":"20160512",
+                         "FromAccount":{
+                         "AccountName":"Complete Access",
+                         "AccountNumber":"062-000 13292555",
+                         "AccountNumberUnformatted":"06200013292555",
+                         "AccountNumberHash":"938977aaf191df5cc5c8bc32566516dd2dc215bc",
+                         "Description":"BPAY Fortnightly"
+                         },
+                         "ToBiller":{
+                         "BillerCode":"75556",
+                         "BillerName":"AUSTRALIAN TAXATION OFFICE",
+                         "BillerNickname":"BPAY",
+                         "Crn":"551008041316928021"
+                         },
+                         "IsBPay":true,
+                         "IsGroup":false,
+                         "Amount":10,
+                         "NextTransferDate":"31/03/2015",
+                         "FirstTransferDate":"31/03/2015",
+                         "LastTransferDate":"12/03/2019",
+                         "RemainingTransfers":104,
+                         "PaymentType":"Payment",
+                         "TransferFrequency":"Fortnightly",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         },
+                         {
+                         "Id":"20160515",
+                         "FromAccount":{
+                         "AccountName":"Complete Access",
+                         "AccountNumber":"062-000 13292555",
+                         "AccountNumberUnformatted":"06200013292555",
+                         "AccountNumberHash":"938977aaf191df5cc5c8bc32566516dd2dc215bc",
+                         "Description":"FundsTransferQuart"
+                         },
+                         "ToAccount":{
+                         "AccountName":"Smart Access",
+                         "AccountNumber":"062-000 13294649",
+                         "AccountNumberHash":"cee39c775f60479659626f2da7ece7120fd947d6",
+                         "Description":"FundsTransferQuart",
+                         "AccountNumberUnformatted":"06200013294649"
+                         },
+                         "IsBPay":false,
+                         "IsGroup":false,
+                         "Amount":20,
+                         "NextTransferDate":"31/03/2015",
+                         "FirstTransferDate":"31/03/2015",
+                         "PaymentType":"Transfer",
+                         "TransferFrequency":"Quarterly",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         },
+                         {
+                         "Id":"20160511",
+                         "FromAccount":{
+                         "AccountName":"Complete Access",
+                         "AccountNumber":"062-000 13292555",
+                         "AccountNumberUnformatted":"06200013292555",
+                         "AccountNumberHash":"938977aaf191df5cc5c8bc32566516dd2dc215bc",
+                         "Description":"FundTransferWeekly"
+                         },
+                         "ToAccount":{
+                         "AccountName":"Smart Access",
+                         "AccountNumber":"062-000 13294649",
+                         "AccountNumberHash":"cee39c775f60479659626f2da7ece7120fd947d6",
+                         "Description":"FundTransferWeekly",
+                         "AccountNumberUnformatted":"06200013294649"
+                         },
+                         "IsBPay":false,
+                         "IsGroup":false,
+                         "Amount":10,
+                         "NextTransferDate":"31/03/2015",
+                         "FirstTransferDate":"31/03/2015",
+                         "PaymentType":"Transfer",
+                         "TransferFrequency":"Weekly",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         },
+                         {
+                         "Id":"20160514",
+                         "FromAccount":{
+                         "AccountName":"Complete Access",
+                         "AccountNumber":"062-000 13292555",
+                         "AccountNumberUnformatted":"06200013292555",
+                         "AccountNumberHash":"938977aaf191df5cc5c8bc32566516dd2dc215bc",
+                         "Description":"FundTransferBiMont"
+                         },
+                         "ToAccount":{
+                         "AccountName":"Smart Access",
+                         "AccountNumber":"062-000 13294649",
+                         "AccountNumberHash":"cee39c775f60479659626f2da7ece7120fd947d6",
+                         "Description":"FundTransferBiMont",
+                         "AccountNumberUnformatted":"06200013294649"
+                         },
+                         "IsBPay":false,
+                         "IsGroup":false,
+                         "Amount":10,
+                         "NextTransferDate":"31/03/2015",
+                         "FirstTransferDate":"31/03/2015",
+                         "PaymentType":"Transfer",
+                         "TransferFrequency":"BiMonthly",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         },
+                         {
+                         "Id":"20160527",
+                         "FromAccount":{
+                         "AccountName":"Complete Access",
+                         "AccountNumber":"062-000 13292555",
+                         "AccountNumberUnformatted":"06200013292555",
+                         "AccountNumberHash":"938977aaf191df5cc5c8bc32566516dd2dc215bc",
+                         "Description":"TransferGroupPay"
+                         },
+                         "ToAccount":{
+                         "AccountName":"TransferGroup",
+                         "GroupName":"TransferGroup"
+                         },
+                         "IsBPay":false,
+                         "IsGroup":true,
+                         "Amount":20,
+                         "NextTransferDate":"06/04/2015",
+                         "FirstTransferDate":"06/04/2015",
+                         "PaymentType":"Payment",
+                         "TransferFrequency":"Weekly",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         },
+                         {
+                         "Id":"20160522",
+                         "FromAccount":{
+                         "AccountName":"Complete Access",
+                         "AccountNumber":"062-000 13292555",
+                         "AccountNumberUnformatted":"06200013292555",
+                         "AccountNumberHash":"938977aaf191df5cc5c8bc32566516dd2dc215bc",
+                         "Description":"MultiFundsTransfer"
+                         },
+                         "ToAccount":{
+                         "AccountName":"Our Online Saver",
+                         "AccountNumber":"062-000 13295780",
+                         "AccountNumberHash":"23323e8fec4bfff3b27e962a0feb26967a004a04",
+                         "Description":"MultiFundsTransfer",
+                         "AccountNumberUnformatted":"06200013295780",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         },
+                         "IsBPay":false,
+                         "IsGroup":false,
+                         "Amount":10,
+                         "NextTransferDate":"07/04/2015",
+                         "FirstTransferDate":"07/04/2015",
+                         "LastTransferDate":"07/04/2015",
+                         "RemainingTransfers":1,
+                         "PaymentType":"Transfer",
+                         "TransferFrequency":"OnceOnly",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         },
+                         {
+                         "Id":"20160513",
+                         "FromAccount":{
+                         "AccountName":"Complete Access",
+                         "AccountNumber":"062-000 13292555",
+                         "AccountNumberUnformatted":"06200013292555",
+                         "AccountNumberHash":"938977aaf191df5cc5c8bc32566516dd2dc215bc",
+                         "Description":"OFIPaymentMonthly"
+                         },
+                         "ToAccount":{
+                         "AccountName":"Headphonic",
+                         "AccountNumber":"0864 885651 16414",
+                         "AccountNumberHash":"ed543ff2320df22b1aaa7cb41ef9efbc0a13812c",
+                         "Description":"OFIPaymentMonthly",
+                         "AccountNumberUnformatted":"086488565116414"
+                         },
+                         "IsBPay":false,
+                         "IsGroup":false,
+                         "Amount":300,
+                         "NextTransferDate":"03/05/2015",
+                         "FirstTransferDate":"03/05/2015",
+                         "PaymentType":"Payment",
+                         "TransferFrequency":"Monthly",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         },
+                         {
+                         "Id":"20160517",
+                         "FromAccount":{
+                         "AccountName":"Complete Access",
+                         "AccountNumber":"062-000 13292555",
+                         "AccountNumberUnformatted":"06200013292555",
+                         "AccountNumberHash":"938977aaf191df5cc5c8bc32566516dd2dc215bc",
+                         "Description":"FundsTrnfrAnnually"
+                         },
+                         "ToAccount":{
+                         "AccountName":"Smart Access",
+                         "AccountNumber":"062-000 13294649",
+                         "AccountNumberHash":"cee39c775f60479659626f2da7ece7120fd947d6",
+                         "Description":"FundsTrnfrAnnually",
+                         "AccountNumberUnformatted":"06200013294649"
+                         },
+                         "IsBPay":false,
+                         "IsGroup":false,
+                         "Amount":6,
+                         "NextTransferDate":"05/05/2015",
+                         "FirstTransferDate":"05/05/2015",
+                         "PaymentType":"Transfer",
+                         "TransferFrequency":"Annually",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         },
+                         {
+                         "Id":"20160521",
+                         "FromAccount":{
+                         "AccountName":"Complete Access",
+                         "AccountNumber":"062-000 13292555",
+                         "AccountNumberUnformatted":"06200013292555",
+                         "AccountNumberHash":"938977aaf191df5cc5c8bc32566516dd2dc215bc",
+                         "Description":"MultiFundsTransfer"
+                         },
+                         "ToAccount":{
+                         "AccountName":"Smart Access",
+                         "AccountNumber":"062-000 13294649",
+                         "AccountNumberHash":"cee39c775f60479659626f2da7ece7120fd947d6",
+                         "Description":"MultiFundsTransfer",
+                         "AccountNumberUnformatted":"06200013294649"
+                         },
+                         "IsBPay":false,
+                         "IsGroup":false,
+                         "Amount":10,
+                         "NextTransferDate":"05/05/2015",
+                         "FirstTransferDate":"05/05/2015",
+                         "LastTransferDate":"05/05/2015",
+                         "RemainingTransfers":1,
+                         "PaymentType":"Transfer",
+                         "TransferFrequency":"OnceOnly",
+                         "Instances":[
+                                      {
+                                      "Date":"2015-03-31T00:00:00"
+                                      },
+                                      {
+                                      "Date":"2015-06-30T00:00:00"
+                                      }
+                                      ]
+                         }
+                         ],
+    "messages":[]
+}

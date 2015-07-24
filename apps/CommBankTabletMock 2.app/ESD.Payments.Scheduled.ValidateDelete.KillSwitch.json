@@ -1,0 +1,8 @@
+{
+    "IsSessionTimeout": false,
+    "ErrorMessages": [
+                      "Sorry, this is unavailable. Visit NetBank to view and manage your scheduled transactions."
+                      ],
+    "WarningMessages": [],
+    "IsUnsafeActionDetected": false
+}

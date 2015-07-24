@@ -1,0 +1,7 @@
+{
+"pageName": "confirm", 
+"section": "payments", 
+"subSection": "transfer", 
+"tag": "pay-recurring-button", 
+"controlType": "button"
+}

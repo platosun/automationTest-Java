@@ -1,0 +1,7 @@
+{
+"pageName": "receipt", 
+"section": "payments", 
+"subSection": "transfer", 
+"tag": "done-button", 
+"controlType": "button"
+}

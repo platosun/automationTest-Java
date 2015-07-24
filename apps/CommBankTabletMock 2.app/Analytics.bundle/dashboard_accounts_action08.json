@@ -1,0 +1,6 @@
+{
+ "pageName": "accounts", 
+ "section": "dashboard", 
+ "tag": "account-cards",
+ "controlType": "button"
+ }

@@ -1,0 +1,79 @@
+{
+  "expenses": [
+    {
+     "id": "12551",
+    "amount": 215.16,
+    "description": "Sydney Water",
+    "recurrenceType": 4,
+    "versionNumber": 1,
+    "paymentContact": {
+        "id": "1910",
+        "type": 1
+    },
+    "items": [
+      {
+         "itemId": "956184",
+         "itemDate": "12/05/2015",
+         "statusId": 1,
+         "versionNumber": 1
+       },
+       {
+         "itemId": "956185",
+         "itemDate": "13/05/2015",
+         "statusId": 1,
+         "versionNumber": 1
+      },
+      {
+      "itemId": "956187",
+      "itemDate": "28/05/2015",
+      "statusId": 1,
+      "versionNumber": 1
+      },
+      {
+      "itemId": "956188",
+      "itemDate": "28/06/2015",
+      "statusId": 1,
+      "versionNumber": 1
+      }
+    ]
+   },
+    {
+     "id": "12552",
+     "amount": 59.99,
+     "description": "TPG Internet",
+     "recurrenceType": 1,
+     "versionNumber": 1,
+     "paymentContact": {
+        "id": "1993",
+        "type": 2
+     },
+     "items": [
+       {
+        "itemId": "956186",
+        "itemDate": "20/05/2015",
+        "statusId": 1,
+        "versionNumber": 1
+      }
+    ]
+   },
+   {
+   "id": "12555",
+   "amount": 800.00,
+   "description": "Car Insurance",
+   "recurrenceType": 7,
+   "versionNumber": 1,
+   "items": [
+             {
+             "itemId": "956186",
+             "itemDate": "25/05/2015",
+             "statusId": 1,
+             "versionNumber": 1
+             }
+    ]
+   }
+  ],
+  "isSessionTimeout": false,
+  "errorMessages": [],
+  "warningMessages": [],
+  "isUnsafeActionDetected": false
+}

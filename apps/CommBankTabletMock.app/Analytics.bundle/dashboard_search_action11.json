@@ -1,0 +1,7 @@
+{
+"pageName": "dashboard",
+"section": "search",
+"milestone": "internal-search-result-clicked",
+"tag": "support-result-link",
+"controlType": "text-link"
+}

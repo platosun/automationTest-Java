@@ -1,0 +1,8 @@
+{
+"pageName": "set-payment-frequency", 
+"section": "payments", 
+"subSection": "transfer", 
+"subSubSection": "pay-recurring", 
+"tag": "other-button", 
+"controlType": "button"
+}

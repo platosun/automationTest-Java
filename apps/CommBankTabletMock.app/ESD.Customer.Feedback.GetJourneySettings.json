@@ -1,0 +1,25 @@
+{
+    "journeys": [
+                 {
+                 "journeyId": 14,
+                 "settings": {
+                 "dismissedDays": "30",
+                 "minSessionCount": "2",
+                 "maxSampleCount": "1000",
+                 "sampleCounter": "400",
+                 "updateDate": "2015-06-25T10:54:32"
+                 }
+                 },
+                 {
+                 "journeyId": 15,
+                 "settings": {
+                 "dismissedDays": "30",
+                 "minSessionCount": "3",
+                 "maxSampleCount": "1000",
+                 "sampleCounter": "10",
+                 "updateDate": "2015-06-25T10:54:32"
+                 }
+                 }
+                 ],
+    "Messages": []
+}

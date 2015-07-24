@@ -1,0 +1,11 @@
+{
+    "loginResult":0,
+    "authVector":null,
+    "isSessionTimeout":false,
+    "errorMessages":[
+                     "Incorrect PIN : Your PIN is incorrect. Please try again. (KER13)"
+                     ],
+    "warningMessages":[],
+    "enableLogging":false,
+    "token":null
+}

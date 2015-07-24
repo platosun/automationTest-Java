@@ -1,0 +1,7 @@
+{
+"pageName": "confirm", 
+"section": "payments", 
+"subSection": "transfer", 
+"tag": "pay-later-button", 
+"controlType": "button"
+}

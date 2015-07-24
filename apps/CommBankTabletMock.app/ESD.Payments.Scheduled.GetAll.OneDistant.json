@@ -1,0 +1,28 @@
+{
+    "ScheduledPayments": [{
+                          "Id": "20253343",
+                          "FromAccount": {
+                          "AccountName": "Streamline 1",
+                          "AccountNumber": "06269210068865",
+                          "AccountNumberHash": "618cce9ed25163fe7a4de5158608665d8800cf2c"
+                          },
+                          "ToAccount": {
+                          "AccountName": "NetBank Saver",
+                          "AccountNumber": "062-000 14927575",
+                          "AccountNumberHash": "a661e5606b6e75abb2744af0638fc56eb1c36f4c"
+                          },
+                          "IsBPay": false,
+                          "IsGroup": false,
+                          "Amount": 12.0,
+                          "NextTransferDate": "27/05/2020",
+                          "FirstTransferDate": "27/05/2020",
+                          "LastTransferDate": "27/05/2020",
+                          "RemainingTransfers": 1,
+                          "PaymentType": "Transfer",
+                          "TransferFrequency": "OnceOnly"
+                          }],
+    "IsSessionTimeout": false,
+    "ErrorMessages": [],
+    "WarningMessages": [],
+    "IsUnsafeActionDetected": false
+}

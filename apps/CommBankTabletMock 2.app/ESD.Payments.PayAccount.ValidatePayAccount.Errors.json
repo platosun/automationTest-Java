@@ -1,0 +1,21 @@
+{
+    "messages": [
+                 {
+                 "type": "Error",
+                 "code": "",
+                 "description": "Validate Pay Account Error from Mock File"},
+                 {
+                 "type": "Warning",
+                 "code": "",
+                 "description": "Validate Pay Account Warning Message #2"},
+                 {
+                 "type": "Information",
+                 "code": "",
+                 "description": "Validate Pay Account Information Message #1"},
+                 {
+                 "type": "Information",
+                 "code": "",
+                 "description": "Validate Pay Account Information Message #2"}
+                 ],
+"isSuccess": false
+}

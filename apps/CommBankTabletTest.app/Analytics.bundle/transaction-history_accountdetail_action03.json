@@ -1,0 +1,6 @@
+{
+ "pageName": "account-detail", 
+ "section": "transaction-history", 
+ "tag": "transaction-history-list-page03",
+ "controlType": "scroll"
+ }

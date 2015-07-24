@@ -1,0 +1,6 @@
+{
+"pageName": "dashboard",
+"section": "search",
+"tag": "searchfield-clear-button", 
+"controlType": "button"
+}

@@ -1,0 +1,6 @@
+{
+"pageName": "settings", 
+"section": "dashboard", 
+"tag": "change-pin-navlink", 
+"controlType": "button"
+}

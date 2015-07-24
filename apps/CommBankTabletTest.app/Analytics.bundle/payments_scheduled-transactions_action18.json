@@ -1,0 +1,6 @@
+{
+"pageName": "scheduled-transactions", 
+"section": "payments", 
+"tag": "delete-payment-confirm-ok", 
+"controlType": "button"
+}

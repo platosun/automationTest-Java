@@ -1,0 +1,18 @@
+{
+  "schedule": {
+    "firstPaymentDate": "20150424",
+    "lastPaymentDate": "20161225",
+    "numberOfPayments": "",
+    "frequency": "Weekly",
+    "paymentScheduleType": "More than Once"
+  },
+  "receiptNumber": "N042351001074",
+  "isSuccess": true,
+  "messages": [
+    {
+      "type": "Warning",
+      "code": "FE4_046",
+      "description": "The end date entered did not correspond with the frequency selected. The last occurrence of this schedule will be made on 25/12/2016"
+    }
+  ]
+}

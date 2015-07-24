@@ -1,0 +1,6 @@
+{
+"pageName": "settings", 
+"section": "dashboard", 
+"tag": "auto-log-off-navlink", 
+"controlType": "button"
+}

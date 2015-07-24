@@ -1,0 +1,7 @@
+{
+"pageName": "receipt", 
+"section": "payments", 
+"subSection": "bsb", 
+"tag": "share-receipt-button", 
+"controlType": "button"
+}

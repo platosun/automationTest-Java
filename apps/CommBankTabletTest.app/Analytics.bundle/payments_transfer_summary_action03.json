@@ -1,0 +1,7 @@
+{
+"pageName": "summary", 
+"section": "payments", 
+"subSection": "transfer", 
+"tag": "transfer-button", 
+"controlType": "button"
+}

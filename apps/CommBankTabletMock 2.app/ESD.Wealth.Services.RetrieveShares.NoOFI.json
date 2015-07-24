@@ -1,0 +1,123 @@
+{
+	"TotalValue": "$4,137.00",
+	"TodaysChange": "$25.78",
+	"TodaysMovement": "up",
+	"TodaysPercentage": "0.62%",
+	"TotalProfitLoss": "$637.00",
+	"TotalProfitMovement": "up",
+	"TotalProfitPercentage": "18.20%",
+    "Accounts":[
+                {
+                "TotalValue":"$8,715.65",
+                "AccountType":"mywealth",
+                "AccountNumber":"2460189",
+                "Shares":[
+                          {
+                          "LogoX2Url":"https://content.mywealth.commbank.com.au/content/sdw/global/en/investment-dashboard/s/sfy.stocklogo.png",
+                          "LogoUrl":"https://content.mywealth.commbank.com.au/content/sdw/global/en/investment-dashboard/s/sfy.stocklogo100.png",
+                          "Code":"SFY",
+                          "Description":"SPDR&reg; S\u0026P/ASX 50 ETF",
+                          "LastPrice":"$56.550",
+                          "TodaysMovement":"up",
+                          "TodaysPercentage":"1.98%",
+                          "TodaysChange": "$160.33",
+                          "TotalProfitLoss":"-$46.03",
+                          "TotalProfitMovement":"down",
+                          "TotalProfitPercentage":"-5.49%",
+                          "TotalValue":"$791.70",
+                          "IsInWatchlist":false,
+                          "AccountHoldings":[
+                                             {
+                                             "AccountName":"Sri Account1",
+                                             "AccountNumber":"2460189",
+                                             "Units":"14",
+                                             "TotalCost":"$837.73",
+                                             "PurchasePrice":"$59.838",
+                                             "PurchaseDate":"01 Jan 0001",
+                                             "PriceTimestamp":null
+                                             }
+                                             ],
+                          "PriceTimestamp":"03 OCT 2014 - 3:10 PM Sydney Time",
+                          "OfiId":0,
+                          "OfiVersion":null,
+                          "LastUpdated":null,
+                          "IncludeInPbs":true
+                          },
+                          {
+                          "LogoX2Url":"https://content.mywealth.commbank.com.au/content/sdw/global/en/investment-dashboard/v/vap.stocklogo.png",
+                          "LogoUrl":"https://content.mywealth.commbank.com.au/content/sdw/global/en/investment-dashboard/v/vap.stocklogo100.png",
+                          "Code":"VAP",
+                          "Description":"Vanguard Australian Property Secs ETF",
+                          "LastPrice":"$66.920",
+                          "TodaysMovement":"flat",
+                          "TodaysPercentage":"0.00%",
+                          "TodaysChange": "$0.00",
+                          "TotalProfitLoss":"-$61.48",
+                          "TotalProfitMovement":"down",
+                          "TotalProfitPercentage":"-7.71%",
+                          "TotalValue":"$736.12",
+                          "IsInWatchlist":false,
+                          "AccountHoldings":[
+                                             {
+                                             "AccountName":"Sri Account1",
+                                             "AccountNumber":"2460189",
+                                             "Units":"11",
+                                             "TotalCost":"$797.60",
+                                             "PurchasePrice":"$72.509",
+                                             "PurchaseDate":"01 Jan 0001",
+                                             "PriceTimestamp":null
+                                             }
+                                             ],
+                          "PriceTimestamp":"03 OCT 2014 - 3:10 PM Sydney Time",
+                          "OfiId":0,
+                          "OfiVersion":null,
+                          "LastUpdated":null,
+                          "IncludeInPbs":true
+                          }
+                          ]
+                },
+                {
+                "TotalValue":"$643.86",
+                "AccountType":"commsec",
+                "AccountNumber":"2460194",
+                "Shares":[{
+                          "LogoX2Url":"https://content.mywealth.commbank.com.au/content/sdw/global/en/investment-dashboard/g/gmg.stocklogo.png",
+                          "LogoUrl":"https://content.mywealth.commbank.com.au/content/sdw/global/en/investment-dashboard/g/gmg.stocklogo100.png",
+                          "Code":"GMG",
+                          "Description":"Goodman Group",
+                          "LastPrice":"$5.110",
+                          "TodaysMovement":"down",
+                          "TodaysPercentage":"-2.48%",
+                          "TodaysChange": "-$20.33",
+                          "TotalProfitLoss":"$13.86",
+                          "TotalProfitMovement":"up",
+                          "TotalProfitPercentage":"2.20%",
+                          "TotalValue":"$643.86",
+                          "IsInWatchlist":true,
+                          "AccountHoldings":[
+                                             {
+                                             "AccountName":"Sri Account1",
+                                             "AccountNumber":"2460189",
+                                             "Units":"126",
+                                             "TotalCost":"$630.00",
+                                             "PurchasePrice":"$5.000",
+                                             "PurchaseDate":"01 Jan 0001",
+                                             "PriceTimestamp":null
+                                             }
+                                             ],
+                          "PriceTimestamp":"03 OCT 2014 - 3:10 PM Sydney Time",
+                          "OfiId":0,
+                          "OfiVersion":null,
+                          "LastUpdated":null,
+                          "IncludeInPbs":true
+                          }]
+                },
+                {
+                "TotalValue":"$0.00",
+                "AccountType":"ofi",
+                "AccountNumber":null,
+                "Shares":[]
+                }
+                ],
+    "PriceTimestamp":"03 OCT 2014 - 3:10 PM Sydney Time"
+}

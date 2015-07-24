@@ -1,0 +1,677 @@
+{
+    "accounts": [{
+                 "accountId": 15529123,
+                 "bsb": "062692",
+                 "accountNumberWithoutBsb": "10068865",
+                 "accountNumber": "06269210068865",
+                 "productCode": "DDA",
+                 "formattedAccountNumber": "062692 1006 8865",
+                 "accountNumberHash": "03e0ebb34e7c9b0addff732cf2f7336af153641f",
+                 "accountName": "Complete Access",
+                 "accountGroup": "A",
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanTransferTo",
+                                    "value": true
+                                    }, {
+                                    "key": "CanBpayFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanTransferFrom",
+                                    "value": false
+                                    }, {
+                                    "key": "CanCardlessCashFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanOrderStickerFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanFundStickerFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsDefault",
+                                    "value": true
+                                    }, {
+                                    "key": "CanP2PFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanRetrieveLinkedCards",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTransactional",
+                                  "value": true
+                                  }, {
+                                  "key": "IsDefaultDepositAccount",
+                                  "value": false
+                                  }, {
+                                  "key": "IsSimpleBalanceAccount",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 1833.97,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 1833.97,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 509741653,
+                 "bsb": "062692",
+                 "accountNumberWithoutBsb": "10042649",
+                 "accountNumber": "06269210042649",
+                 "productCode": "DDA",
+                 "formattedAccountNumber": "062692 1004 2649",
+                 "accountNumberHash": "5b31af748fd07f065865fd4f983563f129b14ece",
+                 "accountName": "NetBank Saver",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanTransferTo",
+                                    "value": true
+                                    }, {
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanTransferFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }, {
+                                    "key": "CanRetrieveLinkedCards",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTransactional",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 3984995.00,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 3984990.00,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 1316310804,
+                 "bsb": "062692",
+                 "accountNumberWithoutBsb": "10042657",
+                 "accountNumber": "06269210042657",
+                 "productCode": "DDA",
+                 "formattedAccountNumber": "062692 1004 2657",
+                 "accountNumberHash": "6e005dc6090af0addb1ff38412e494d7d877c655",
+                 "accountName": "GoalSaver",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanTransferTo",
+                                    "value": true
+                                    }, {
+                                    "key": "CanBpayFrom",
+                                    "value": false
+                                    }, {
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanTransferFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsDefault",
+                                    "value": true
+                                    }, {
+                                    "key": "CanP2PFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanRetrieveLinkedCards",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTransactional",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": -80.85,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": -80.85,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 1338664124,
+                 "bsb": "062692",
+                 "accountNumberWithoutBsb": "10043078",
+                 "accountNumber": "06269210043078",
+                 "productCode": "DDA",
+                 "formattedAccountNumber": "062692 1004 3078",
+                 "accountNumberHash": "933724f4ebc19806ab3f7e1f23ea1fceb98d05c1",
+                 "accountName": "GoalSaver",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanTransferTo",
+                                    "value": true
+                                    }, {
+                                    "key": "CanBpayFrom",
+                                    "value": false
+                                    }, {
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanTransferFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsDefault",
+                                    "value": true
+                                    }, {
+                                    "key": "CanP2PFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanRetrieveLinkedCards",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTransactional",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 20.00,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 20.00,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 1437273565,
+                 "bsb": "062692",
+                 "accountNumberWithoutBsb": "10043086",
+                 "accountNumber": "06269210043086",
+                 "productCode": "DDA",
+                 "formattedAccountNumber": "062692 1004 3086",
+                 "accountNumberHash": "9b8ff41800fe2dfce43609246c06489875f9ab74",
+                 "accountName": "GoalSaver",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanTransferTo",
+                                    "value": true
+                                    }, {
+                                    "key": "CanBpayFrom",
+                                    "value": false
+                                    }, {
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanTransferFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsDefault",
+                                    "value": true
+                                    }, {
+                                    "key": "CanP2PFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanRetrieveLinkedCards",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTransactional",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 49988.60,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 49988.60,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 1154948365,
+                 "bsb": "062692",
+                 "accountNumberWithoutBsb": "10043262",
+                 "accountNumber": "06269210043262",
+                 "productCode": "DDA",
+                 "formattedAccountNumber": "062692 1004 3262",
+                 "accountNumberHash": "3faa6bae2ba7ba8e30a84be02783d85acd3119d6",
+                 "accountName": "GoalSaver",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanTransferTo",
+                                    "value": true
+                                    }, {
+                                    "key": "CanBpayFrom",
+                                    "value": false
+                                    }, {
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanTransferFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsDefault",
+                                    "value": true
+                                    }, {
+                                    "key": "CanP2PFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanRetrieveLinkedCards",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTransactional",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 90000.00,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 90000.00,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 1013267121,
+                 "bsb": "062692",
+                 "accountNumberWithoutBsb": "10051959",
+                 "accountNumber": "06269210051959",
+                 "productCode": "DDA",
+                 "formattedAccountNumber": "062692 1005 1959",
+                 "accountNumberHash": "00f4373c07e5af04a120d7eaa1acd15ca656421f",
+                 "accountName": "NetBank Saver",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanTransferTo",
+                                    "value": true
+                                    }, {
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanTransferFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }, {
+                                    "key": "CanRetrieveLinkedCards",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTransactional",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 50015.00,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 50015.00,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 1453748447,
+                 "bsb": "062692",
+                 "accountNumberWithoutBsb": "10065453",
+                 "accountNumber": "06269210065453",
+                 "productCode": "DDA",
+                 "formattedAccountNumber": "062692 1006 5453",
+                 "accountNumberHash": "50dd6725158bd39a4375e37afa3e5bb624dddaf1",
+                 "accountName": "Complete Access",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanTransferTo",
+                                    "value": true
+                                    }, {
+                                    "key": "CanBpayFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanTransferFrom",
+                                    "value": false
+                                    }, {
+                                    "key": "CanCardlessCashFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanOrderStickerFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanFundStickerFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsDefault",
+                                    "value": true
+                                    }, {
+                                    "key": "CanP2PFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanRetrieveLinkedCards",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTransactional",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 3616506.88,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 3516466.53,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 458607145,
+                 "bsb": "067990",
+                 "accountNumberWithoutBsb": "18047480",
+                 "accountNumber": "06799018047480",
+                 "productCode": "DDA",
+                 "formattedAccountNumber": "067990 1804 7480",
+                 "accountNumberHash": "1f70a0f9a94448aab1fbfee923532725a429cf35",
+                 "accountName": "Staff Account",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanTransferTo",
+                                    "value": true
+                                    }, {
+                                    "key": "CanBpayFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanTransferFrom",
+                                    "value": false
+                                    }, {
+                                    "key": "CanCardlessCashFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsDefault",
+                                    "value": true
+                                    }, {
+                                    "key": "CanP2PFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanRetrieveLinkedCards",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTransactional",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 150000.00,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 150000.00,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 85839980,
+                 "bsb": "067990",
+                 "accountNumberWithoutBsb": "18047595",
+                 "accountNumber": "06799018047595",
+                 "productCode": "DDA",
+                 "formattedAccountNumber": "067990 1804 7595",
+                 "accountNumberHash": "8078eaea507bf919ddf2c332f1aa6c1e8cc72768",
+                 "accountName": "Our Online Saver",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanTransferTo",
+                                    "value": true
+                                    }, {
+                                    "key": "CanBpayFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanTransferFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanCardlessCashFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsDefault",
+                                    "value": true
+                                    }, {
+                                    "key": "CanP2PFrom",
+                                    "value": true
+                                    }, {
+                                    "key": "CanRetrieveLinkedCards",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTransactional",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 50000.00,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 50000.00,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 965951259,
+                 "bsb": "062000",
+                 "accountNumberWithoutBsb": "50802972",
+                 "accountNumber": "06200050802972",
+                 "productCode": "CDA",
+                 "formattedAccountNumber": "062000 50802972",
+                 "accountNumberHash": "1f5c604a2898a0a1d533156823e30e47d150559b",
+                 "accountName": "Term Deposit",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTermDeposit",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 400000.00,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 0.00,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 230339841,
+                 "bsb": "062000",
+                 "accountNumberWithoutBsb": "50809146",
+                 "accountNumber": "06200050809146",
+                 "productCode": "CDA",
+                 "formattedAccountNumber": "062000 50809146",
+                 "accountNumberHash": "06b4c7f9d1d61ad62155c34fb7aece001665493f",
+                 "accountName": "Term Deposit",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTermDeposit",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 50000.00,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 0.00,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 38584828,
+                 "bsb": "062692",
+                 "accountNumberWithoutBsb": "50010078",
+                 "accountNumber": "06269250010078",
+                 "productCode": "CDA",
+                 "formattedAccountNumber": "062692 50010078",
+                 "accountNumberHash": "8040676afb89e8e79a220f20f3fd128caa8618b2",
+                 "accountName": "Term Deposit",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTermDeposit",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 105020.88,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 0.00,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }, {
+                 "accountId": 2041452834,
+                 "bsb": "062692",
+                 "accountNumberWithoutBsb": "50010836",
+                 "accountNumber": "06269250010836",
+                 "productCode": "CDA",
+                 "formattedAccountNumber": "062692 50010836",
+                 "accountNumberHash": "16d4f577f78e92446de72e1976443f6c367fdba9",
+                 "accountName": "Term Deposit",
+                 "accountGroup": null,
+                 "travelMoneyCardNumbers": null,
+                 "actionsAllowed": [{
+                                    "key": "CanEnquire",
+                                    "value": true
+                                    }, {
+                                    "key": "CanViewTransactions",
+                                    "value": true
+                                    }, {
+                                    "key": "CanSetAsSimpleBalance",
+                                    "value": true
+                                    }],
+                 "accountTypes": [{
+                                  "key": "IsTermDeposit",
+                                  "value": true
+                                  }],
+                 "balances": [{
+                              "amount": 505050.00,
+                              "currency": "AUD"
+                              }],
+                 "availableFunds": [{
+                                    "amount": 0.00,
+                                    "currency": "AUD"
+                                    }],
+                 "isOneToSign": true
+                 }],
+    "summaryBalances": {
+        "totalDebits": 80.85,
+        "totalCredits": 14054880.35,
+        "netPosition": 14054799.50
+    },
+    "messages": null
+}

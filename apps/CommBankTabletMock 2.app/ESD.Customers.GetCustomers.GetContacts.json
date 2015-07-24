@@ -1,0 +1,30 @@
+{
+    "customer": {
+        "phones": [
+                   {
+                   "type": "Mobile",
+                   "areaCode": "",
+                   "number": "XXXX XXX 222",
+                   "country": ""
+                   }
+                   ],
+        "cifId": "658771885",
+        "name": "Mr KELSEY HALIE LOOMIS, Junior",
+        "email": "DUMMYPRIVATISED@CBA.COM.AU",
+        "individualName": {
+            "salutation": "Mr",
+            "firstName": "KELSEY",
+            "lastName": "LOOMIS",
+            "middleName": "HALIE",
+            "suffixTitle": "Junior"
+        },
+        "mailingAddress": {
+            "countryName": "Australia",
+            "postCode": "2007",
+            "state": "NSW",
+            "city": "ULTIMO",
+            "line1": "17-19 MACARTHUR ST",
+            "line2": ""
+        }
+    }
+}

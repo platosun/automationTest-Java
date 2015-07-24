@@ -1,0 +1,14 @@
+{
+"billerCode" : "45435",
+"billerName" : "Bankstown City Council Very Very Long Biller Name!",
+"isVariableCrn" : false,
+"isRegisteredToBPayView": false,
+"messages" : [
+{
+"type" : "Success",
+"code" : "RM13_000",
+"description" : "Service request was processed successfully.<br />(Success Message No. RM13_000)"
+}
+],
+"isUnsafeActionDetected" : false
+}

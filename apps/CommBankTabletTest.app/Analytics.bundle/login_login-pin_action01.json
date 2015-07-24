@@ -1,0 +1,6 @@
+{
+"pageName": "login-pin", 
+"section": "login", 
+"tag": "login-with-password-link", 
+"controlType": "text-link"
+}

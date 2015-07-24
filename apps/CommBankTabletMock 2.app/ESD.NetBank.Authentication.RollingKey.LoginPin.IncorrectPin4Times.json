@@ -1,0 +1,11 @@
+{
+    "loginResult":0,
+    "authVector":null,
+    "isSessionTimeout":false,
+    "errorMessages":[
+                     "Your CommBank app PIN access will be locked if you incorrectly enter your PIN again."
+                     ],
+    "warningMessages":[],
+    "enableLogging":false,
+    "token":null
+}

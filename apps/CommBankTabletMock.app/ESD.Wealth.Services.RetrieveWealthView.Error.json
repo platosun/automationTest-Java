@@ -1,0 +1,16 @@
+{
+    "AssetsAmount":0,
+    "LoansAmount":0,
+    "WealthAmount":0,
+    "AssetsPercent":0,
+    "LoansPercent":0,
+    "WealthPercent":0,
+    "Panels":null,
+    "PriceTimestamp":null,
+    "IsLocked":false,
+    "Notifications":null,
+    "CorrelationId":"06fb54bb-8c42-437d-b682-31347cb42034",
+    "ErrorMessages":[
+        "Portfolio is currently unavailable. Please try again later."
+    ]
+}

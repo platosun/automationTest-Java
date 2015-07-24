@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Key</key>
+			<string>helix.container.local.version.settings</string>
+			<key>Title</key>
+			<string>Local:</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>helix.container.badev.version.settings</string>
+			<key>Title</key>
+			<string>Dev 0:</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>helix.container.dev1.version.settings</string>
+			<key>Title</key>
+			<string>Dev 1:</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>helix.container.T0.version.settings</string>
+			<key>Title</key>
+			<string>T0:</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>helix.container.T2.version.settings</string>
+			<key>Title</key>
+			<string>T2:</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>helix.container.T3.version.settings</string>
+			<key>Title</key>
+			<string>T3:</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>helix.container.T4.version.settings</string>
+			<key>Title</key>
+			<string>T4:</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>helix.container.T5.version.settings</string>
+			<key>Title</key>
+			<string>T5:</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+	</array>
+</dict>
+</plist>

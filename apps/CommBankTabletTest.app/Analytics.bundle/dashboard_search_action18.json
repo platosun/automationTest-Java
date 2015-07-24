@@ -1,0 +1,6 @@
+{
+"pageName": "dashboard",
+"section": "search",
+"tag": "faq-link", 
+"controlType": "text-link"
+}

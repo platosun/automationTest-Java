@@ -1,0 +1,7 @@
+{
+"pageName": "confirm", 
+"section": "payments", 
+"subSection": "bpay", 
+"tag": "pay-now-button", 
+"controlType": "button"
+}

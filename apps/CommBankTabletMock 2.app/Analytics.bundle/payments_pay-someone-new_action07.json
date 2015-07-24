@@ -1,0 +1,7 @@
+{
+    "pageName": "payment-summary",
+    "section": "payments",
+    "subSection": "pay-someone-new",
+    "tag": "pay",
+    "controlType": "button"
+}

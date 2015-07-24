@@ -1,0 +1,9 @@
+{
+"messages":[
+        {
+         "type":"Error",
+         "code":"Account_Integration",
+         "description":"Account information is unavailable right now"
+        }
+    ]
+}

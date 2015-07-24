@@ -1,0 +1,8 @@
+{
+"pageName": "account-detail", 
+"section": "accounts", 
+"subSection": "account-options-modal", 
+"tag": "account-information-link",
+"controlType": "text-link"
+}
+

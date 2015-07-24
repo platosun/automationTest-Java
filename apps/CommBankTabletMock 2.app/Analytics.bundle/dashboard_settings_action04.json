@@ -1,0 +1,6 @@
+{
+"pageName": "settings", 
+"section": "dashboard", 
+"tag": "enable-pin-on-toggle", 
+"controlType": "toggle"
+}

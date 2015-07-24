@@ -1,0 +1,7 @@
+{
+    "pageName": "add-new-bpay-biller",
+    "section": "payments",
+    "subSection": "pay-new-bpay-biller",
+    "tag": "change-from-account",
+    "controlType": "drop-down"
+}

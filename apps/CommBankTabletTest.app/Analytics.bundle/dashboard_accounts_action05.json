@@ -1,0 +1,6 @@
+{
+ "pageName": "accounts", 
+ "section": "dashboard", 
+ "tag": "bsb-pay-button",
+ "controlType": "button"
+ }

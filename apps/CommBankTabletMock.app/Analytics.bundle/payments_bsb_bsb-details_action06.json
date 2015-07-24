@@ -1,0 +1,7 @@
+{
+"pageName": "bsb-details", 
+"section": "payments", 
+"subSection": "bsb", 
+"tag": "change-from-account", 
+"controlType": "drop-down-list"
+}

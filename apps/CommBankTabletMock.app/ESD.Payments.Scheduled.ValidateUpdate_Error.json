@@ -1,0 +1,7 @@
+{
+    "ModifiedScheduledPayment": {},
+    "IsSessionTimeout": false,
+    "ErrorMessages": ["This is a mock error message for validate scheduled payment update."],
+    "WarningMessages": [],
+    "IsUnsafeActionDetected": false
+}

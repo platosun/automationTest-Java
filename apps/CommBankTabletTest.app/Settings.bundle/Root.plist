@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>DefaultValue</key>
+			<string>2.0.0.3091</string>
+			<key>Key</key>
+			<string>Version</string>
+			<key>Title</key>
+			<string>Version</string>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>Not set</string>
+			<key>Key</key>
+			<string>helix.deviceID</string>
+			<key>Title</key>
+			<string>DeviceID</string>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>CBAFeatureFlag</string>
+			<key>Title</key>
+			<string>Feature Flags</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+			<key>Value</key>
+			<string>1.0.0.0</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>logging.enabled</string>
+			<key>Title</key>
+			<string>Logging Enabled</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>debug.enabled</string>
+			<key>Title</key>
+			<string>Developer Console Enabled</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>omniture.debugLogging</string>
+			<key>Title</key>
+			<string>Omniture Logging Enabled</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>alwayShowOnboarding</string>
+			<key>Title</key>
+			<string>Always Show Onboarding</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>helix.useCachedManifest</string>
+			<key>Title</key>
+			<string>Use Cached Manifest</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>helix.ClearAllDataSettingsSwitch</string>
+			<key>Title</key>
+			<string>Clear All Data</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>shouldClearCoreDataIfModelChanged</string>
+			<key>Title</key>
+			<string>Clear Core Data If Model Changed</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>ContainerVersion</string>
+			<key>Title</key>
+			<string>Container Version</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+			<key>Value</key>
+			<string>1.0.0.0</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Environment</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>helix.container.badev</string>
+			<key>Key</key>
+			<string>helix.container.environment.selected</string>
+			<key>Title</key>
+			<string>Test Server</string>
+			<key>Titles</key>
+			<array>
+				<string>Local</string>
+				<string>BADev (Dev 0)</string>
+				<string>Dev 1</string>
+				<string>T0</string>
+				<string>T2</string>
+				<string>T3</string>
+				<string>T4</string>
+				<string>T5</string>
+				<string>Prod</string>
+				<string>Staging</string>
+			</array>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Values</key>
+			<array>
+				<string>helix.container.local</string>
+				<string>helix.container.badev</string>
+				<string>helix.container.dev1</string>
+				<string>helix.container.T0</string>
+				<string>helix.container.T2</string>
+				<string>helix.container.T3</string>
+				<string>helix.container.T4</string>
+				<string>helix.container.T5</string>
+				<string>helix.container.prod</string>
+				<string>helix.container.staging</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Test Anywhere</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>helix.container.useanywhere</string>
+			<key>Title</key>
+			<string>Test Anywhere Enabled</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>TestAnywhereUsername</string>
+			<key>Title</key>
+			<string>Username</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+		<dict>
+			<key>IsSecure</key>
+			<true/>
+			<key>Key</key>
+			<string>TestAnywherePassword</string>
+			<key>Title</key>
+			<string>Password</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

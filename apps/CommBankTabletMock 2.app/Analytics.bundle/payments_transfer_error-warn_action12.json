@@ -1,0 +1,7 @@
+{
+"pageName": "error-warn", 
+"section": "payments", 
+"subSection": "transfer", 
+"tag": "continue-button", 
+"controlType": "button"
+}

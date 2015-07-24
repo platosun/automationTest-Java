@@ -1,0 +1,6 @@
+{
+"pageName": "scheduled-transactions", 
+"section": "payments", 
+"tag": "single-BPAY-payment-detail-delete", 
+"controlType": "button"
+}

@@ -1,0 +1,6 @@
+{
+ "pageName": "accounts", 
+ "section": "dashboard", 
+ "tag": "bpay-pay-button",
+ "controlType": "button"
+ }

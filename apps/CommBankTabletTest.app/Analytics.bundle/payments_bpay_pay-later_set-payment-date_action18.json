@@ -1,0 +1,8 @@
+{
+"pageName": "set-payment-date", 
+"section": "payments", 
+"subSection": "bpay", 
+"subSubSection": "pay-later", 
+"tag": "next-button", 
+"controlType": "button"
+}

@@ -1,0 +1,7 @@
+{
+"pageName": "payment-details", 
+"section": "payments", 
+"subSection": "bpay", 
+"tag": "back-button", 
+"controlType": "button"
+}

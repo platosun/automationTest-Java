@@ -1,0 +1,406 @@
+{
+    "messages": null,
+    "pagingKey": "MDA1MDU2OTQxMjZCMUVEM0E0REJFN0U0QTA1RURERkMsMDAxLDIwMTQtMDItMDQsNzc4NS41MSxBVUQsQ1IsMjAxNDAyMTEwNTQyMDkuNzg3Njg4MSxTQVAs",
+    "transactions": [
+                     {
+                     "amount": 100,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer from xx5887 NetBank",
+                     "runningTotal": 7946.47,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2015-02-27T00:00:00",
+                     "transactionId": "201502210335084720161",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -5.55,
+                     "amountCurrencyCode": "AUD",
+                     "description": "NetBank 3rd Party Transfer Fee",
+                     "runningTotal": 7846.47,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2015-02-27T00:00:00",
+                     "transactionId": "201502210327385328281",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": 111,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer from xx7049 NetBank",
+                     "runningTotal": 7852.02,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2015-02-26T00:00:00",
+                     "transactionId": "201502210327376744311",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": 10,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer from xx4745 NetBank",
+                     "runningTotal": 7741.02,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2015-02-15T00:00:00",
+                     "transactionId": "201501050603273658351",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -20,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to other Bank NetBank\r\nsdf",
+                     "runningTotal": 7731.02,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2015-02-15T00:00:00",
+                     "transactionId": "201501050556154851711",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": 10,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer from xx0682 NetBank",
+                     "runningTotal": 7751.02,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2015-02-12T00:00:00",
+                     "transactionId": "201501050550384484761",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": 500,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer from xx4745 NetBank",
+                     "runningTotal": 7741.02,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2015-02-12T00:00:00",
+                     "transactionId": "201501050547383778821",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": 1000,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer from xx4745 NetBank",
+                     "runningTotal": 7241.02,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2015-02-05T00:00:00",
+                     "transactionId": "201501050546580369351",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -5,
+                     "amountCurrencyCode": "AUD",
+                     "description": "NetBank 3rd Party Transfer Fee",
+                     "runningTotal": 6241.02,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-09-08T00:00:00",
+                     "transactionId": "201411261113444803271",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -100,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to xx0682 NetBank",
+                     "runningTotal": 6246.02,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-09-08T00:00:00",
+                     "transactionId": "201411261113423755881",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -2.99,
+                     "amountCurrencyCode": "AUD",
+                     "description": "ICARTE FEE NetBank BPAY 333138\r\n340935235 CommBank PayTag order",
+                     "runningTotal": 6346.02,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-08-18T00:00:00",
+                     "transactionId": "201408210216156966341",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": 5.5,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer from xx4745 CommBank app\r\njfuf",
+                     "runningTotal": 6349.01,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-07-31T00:00:00",
+                     "transactionId": "201408130027378862901",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -2,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to xx4745 CommBank app\r\ngdh",
+                     "runningTotal": 6343.51,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-06-27T00:00:00",
+                     "transactionId": "201406270604064876761",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -0.5,
+                     "amountCurrencyCode": "AUD",
+                     "description": "NetBank 3rd Party Transfer Fee",
+                     "runningTotal": 6345.51,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-04-17T00:00:00",
+                     "transactionId": "201404210331183613491",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -10,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to xx4745 NetBank",
+                     "runningTotal": 6346.01,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-04-17T00:00:00",
+                     "transactionId": "201404210331152684961",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -10,
+                     "amountCurrencyCode": "AUD",
+                     "description": "COMMONWEALTH CARDS NetBank BPAY 1818\r\n4052211800034078 sffsaf",
+                     "runningTotal": 6356.01,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-20T00:00:00",
+                     "transactionId": "201404010654582282391",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -20,
+                     "amountCurrencyCode": "AUD",
+                     "description": "3Mobile NetBank BPAY 120931\r\n33619584106 asdasdsad",
+                     "runningTotal": 6366.01,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-20T00:00:00",
+                     "transactionId": "201404010654573660321",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -2.5,
+                     "amountCurrencyCode": "AUD",
+                     "description": "NetBank 3rd Party Transfer Fee",
+                     "runningTotal": 6386.01,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-20T00:00:00",
+                     "transactionId": "201404010653070782431",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -50,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to xx4745 NetBank",
+                     "runningTotal": 6388.51,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-20T00:00:00",
+                     "transactionId": "201404010653048600011",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -100,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to xx2117 NetBank\r\nTessst",
+                     "runningTotal": 6438.51,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-20T00:00:00",
+                     "transactionId": "201403200535148050871",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -500,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to CBA A/c NetBank\r\nasd",
+                     "runningTotal": 6538.51,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-20T00:00:00",
+                     "transactionId": "201403200447497929531",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": 100,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer from xx3654 NetBank\r\nTessss",
+                     "runningTotal": 7038.51,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-03T00:00:00",
+                     "transactionId": "201403191159331165591",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -100,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to xx3654 NetBank\r\nTessss",
+                     "runningTotal": 6938.51,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-03T00:00:00",
+                     "transactionId": "201403191159323392471",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -100,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to xx4745 NetBank\r\ntest",
+                     "runningTotal": 7038.51,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-03T00:00:00",
+                     "transactionId": "201403181339258335741",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -12,
+                     "amountCurrencyCode": "AUD",
+                     "description": "COMMONWEALTH CARDS NetBank BPAY 1818\r\n4052211800034078 sdfsdfsdf",
+                     "runningTotal": 7138.51,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-03T00:00:00",
+                     "transactionId": "201403140127100368041",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -0.5,
+                     "amountCurrencyCode": "AUD",
+                     "description": "NetBank 3rd Party Transfer Fee",
+                     "runningTotal": 7150.51,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-03T00:00:00",
+                     "transactionId": "201403051041507001291",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -10,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to xx4745 NetBank\r\nsdsdsd",
+                     "runningTotal": 7151.01,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-03-03T00:00:00",
+                     "transactionId": "201403051041486390121",
+                     "transactionType": null
+                     },
+                     {
+                     "amount": -5,
+                     "amountCurrencyCode": "AUD",
+                     "description": "NetBank 3rd Party Transfer Fee",
+                     "runningTotal": 7161.01, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402170617338874661", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -100, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "Transfer to xx4745 NetBank\r\ndhfdfh", 
+                     "runningTotal": 7166.01, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402170617319136081", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -12, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "Transfer to other Bank NetBank\r\n123456789012345678", 
+                     "runningTotal": 7266.01, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402170212169829941", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -11, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "NetBank TFR to 0462539874\r\nsdfsdf", 
+                     "runningTotal": 7278.01, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402130422416690311", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -5, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "NetBank 3rd Party Transfer Fee", 
+                     "runningTotal": 7289.01, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402120851303453781", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -100, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "Transfer to xx4745 NetBank\r\ndgfg", 
+                     "runningTotal": 7294.01, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402120851272901551", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -100, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "Transfer to xx4745 NetBank\r\n1sdfsf", 
+                     "runningTotal": 7394.01, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402120849204385341", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -1.5, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "NetBank 3rd Party Transfer Fee", 
+                     "runningTotal": 7494.01, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402120515568569131", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -70, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "Multiple Transfer NetBank\r\nfsdfsf", 
+                     "runningTotal": 7495.51, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402120515532907021", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -10, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "NetBank 3rd Party Transfer Fee", 
+                     "runningTotal": 7565.51, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402120509160668181", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -200, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "Transfer to xx4745 NetBank\r\ndgdg", 
+                     "runningTotal": 7575.51, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402120509137205841", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -10, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "NetBank 3rd Party Transfer Fee", 
+                     "runningTotal": 7775.51, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402110542120920881", 
+                     "transactionType": null
+                     }, 
+                     {
+                     "amount": -200, 
+                     "amountCurrencyCode": "AUD", 
+                     "description": "Transfer to xx4745 NetBank\r\nghshh", 
+                     "runningTotal": 7785.51, 
+                     "runningTotalCurrencyCode": "AUD", 
+                     "transactionDate": "2014-02-04T00:00:00", 
+                     "transactionId": "201402110542097876881", 
+                     "transactionType": null
+                     }
+                     ]
+}

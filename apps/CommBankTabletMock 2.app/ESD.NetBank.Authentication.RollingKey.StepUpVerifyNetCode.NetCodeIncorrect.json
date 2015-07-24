@@ -1,0 +1,11 @@
+{
+    "isSessionTimeout": false,
+    "errorMessages": [
+                      "NetCode incorrect: The NetCode you have entered is incorrect. Please try again."
+                      ],
+    "warningMessages": [
+    
+    ],
+    "enableLogging": false,
+    "token": null
+}

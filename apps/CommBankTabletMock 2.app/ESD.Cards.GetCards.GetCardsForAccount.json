@@ -1,0 +1,18 @@
+{
+    "linkedCards": [
+                    {
+                    "cardType": "DebitCard",
+                    "cardNumber": "5771 161800 01963",
+                    "cardImageName": "Awards_Standard_Amex",
+                    "cardStatus": "Active"
+                    },
+                    {
+                    "cardType": "DebitCard",
+                    "cardNumber": "5771 161800 01963",
+                    "cardImageName": "Awards_Standard_Amex",
+                    "cardStatus": "Active"
+                    }
+                    ],
+    "messages": null
+    
+}

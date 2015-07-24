@@ -1,0 +1,257 @@
+{
+    "data": {
+        "__value__": {
+            "appSessionHorizon": "635418830133590000",
+            "sid": "39d1634bbe0c404ca38aaec25984c094",
+            "ErrorMessages": [],
+             "Articles":[
+                   {
+                      "CategoryId":"investing-basics",
+                      "Date":"02 Oct 2014 02:57 PM",
+                      "Id":"what-is-shareholder-return-",
+                      "ShortIntro":"\u003cp\u003eTEST\u003c/p\u003e\n\u003cp\u003eTEST\u003c/p\u003e\n",
+                      "Title":"What is shareholder return?",
+                      "WrittenFor":[
+                         {
+                            "level":"experienced",
+                            "asset":"cash"
+                         },
+                         {
+                            "level":"beginner",
+                            "asset":"shares"
+                         },
+                         {
+                            "level":"beginner",
+                            "asset":"property"
+                         }
+                      ],
+                      "Levels":"Beginner | Experienced",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"investing-basics",
+                      "Date":"01 Oct 2014 12:14 PM",
+                      "Id":"test-learn-01-oct",
+                      "ShortIntro":"\u003cp\u003etest1\u003c/p\u003e\n\u003cp\u003etest2\u003c/p\u003e\n\u003cp\u003etest3\u003c/p\u003e\n",
+                      "Title":"Test Learn 01 Oct",
+                      "WrittenFor":[
+                         {
+                            "level":"beginner",
+                            "asset":"shares"
+                         }
+                      ],
+                      "Levels":"Beginner",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"investing-basics",
+                      "Date":"18 Sep 2014 02:30 PM",
+                      "Id":"learn-article-recommended-article-test",
+                      "ShortIntro":"\u003cp\u003etest test test\u003c/p\u003e\n",
+                      "Title":"Learn article recommended article test",
+                      "WrittenFor":[
+                         {
+                            "level":"beginner",
+                            "asset":"fixed-interest"
+                         }
+                      ],
+                      "Levels":"Beginner",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"investing-basics",
+                      "Date":"03 Jul 2014 11:17 AM",
+                      "Id":"learn-test-r35",
+                      "ShortIntro":"\u003cp\u003etest123\u003c/p\u003e\n\u003cp\u003etest456\u003c/p\u003e\n\u003cp\u003etest789\u003c/p\u003e\n",
+                      "Title":"Learn test r35",
+                      "WrittenFor":[
+                         {
+                            "level":"beginner",
+                            "asset":"property"
+                         },
+                         {
+                            "level":"experienced",
+                            "asset":"fixed-interest"
+                         },
+                         {
+                            "level":"experienced",
+                            "asset":"shares"
+                         }
+                      ],
+                      "Levels":"Beginner | Experienced",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"investing-basics",
+                      "Date":"04 Apr 2014 04:19 PM",
+                      "Id":"what-is-superannuation-",
+                      "ShortIntro":"\u003cul\u003e\n\u003cli\u003eThe aim of super\u003c/li\u003e\n\u003cli\u003eTypes of super funds\u003c/li\u003e\n\u003cli\u003eHow to contribute\u003c/li\u003e\n\u003c/ul\u003e\n",
+                      "Title":"What is superannuation?",
+                      "WrittenFor":[
+                         {
+                            "level":"beginner",
+                            "asset":"super"
+                         }
+                      ],
+                      "Levels":"Beginner",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"managing-investments",
+                      "Date":"17 Mar 2014 04:49 PM",
+                      "Id":"what-is-a-dividend-distribution-plan-",
+                      "ShortIntro":"\u003cul\u003e\n\u003cli\u003eHow DRPs work\u003c/li\u003e\n\u003cli\u003eThe key benefits\u003c/li\u003e\n\u003cli\u003eHow to take part\u003c/li\u003e\n\u003c/ul\u003e\n",
+                      "Title":"What is a dividend reinvestment plan?",
+                      "WrittenFor":[
+                         {
+                            "level":"intermediate",
+                            "asset":"shares"
+                         }
+                      ],
+                      "Levels":"Intermediate",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"choosing-investments",
+                      "Date":"17 Mar 2014 04:44 PM",
+                      "Id":"what-is-distribution-yield",
+                      "ShortIntro":"\u003cul\u003e\n\u003cli\u003eWhat are distributions\u003c/li\u003e\n\u003cli\u003eHow to access distributions\u003c/li\u003e\n\u003cli\u003eHow to calculate yield\u003c/li\u003e\n\u003c/ul\u003e\n",
+                      "Title":"What is distribution yield?",
+                      "WrittenFor":[
+                         {
+                            "level":"intermediate",
+                            "asset":"shares"
+                         },
+                         {
+                            "level":"intermediate",
+                            "asset":"property"
+                         }
+                      ],
+                      "Levels":"Intermediate",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"choosing-investments",
+                      "Date":"17 Mar 2014 04:41 PM",
+                      "Id":"what-is-currency-hedging-",
+                      "ShortIntro":"\u003cul\u003e\n\u003cli\u003eWhat is currency risk?\u003c/li\u003e\n\u003cli\u003eWhat investments are affected?\u003c/li\u003e\n\u003cli\u003eHow hedging works\u003c/li\u003e\n\u003c/ul\u003e\n",
+                      "Title":"What is currency hedging?",
+                      "WrittenFor":[
+                         {
+                            "level":"experienced",
+                            "asset":"shares"
+                         }
+                      ],
+                      "Levels":"Experienced",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"choosing-investments",
+                      "Date":"17 Mar 2014 04:38 PM",
+                      "Id":"why-are-some-etfs-riskier-than-others-",
+                      "ShortIntro":"\u003cul\u003e\n\u003cli\u003eWhat are synthetic ETFs?\u003c/li\u003e\n\u003cli\u003eWhat are the specific risks?\u003c/li\u003e\n\u003cli\u003eWhat to look out for\u003c/li\u003e\n\u003c/ul\u003e\n",
+                      "Title":"Why are some ETFs riskier than others?",
+                      "WrittenFor":[
+                         {
+                            "level":"intermediate",
+                            "asset":"shares"
+                         }
+                      ],
+                      "Levels":"Intermediate",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"choosing-investments",
+                      "Date":"17 Mar 2014 04:34 PM",
+                      "Id":"what-are-the-costs-of-investing-in-etfs-",
+                      "ShortIntro":"\u003cul\u003e\n\u003cli\u003eManagement fees\u003c/li\u003e\n\u003cli\u003eOther costs\u003c/li\u003e\n\u003cli\u003eETFs v managed funds\u003c/li\u003e\n\u003c/ul\u003e\n",
+                      "Title":"What are the costs of investing in ETFs?",
+                      "WrittenFor":[
+                         {
+                            "level":"intermediate",
+                            "asset":"shares"
+                         },
+                         {
+                            "level":"experienced",
+                            "asset":"shares"
+                         }
+                      ],
+                      "Levels":"Intermediate | Experienced",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"choosing-investments",
+                      "Date":"17 Mar 2014 04:29 PM",
+                      "Id":"what-is-shareholder-return-",
+                      "ShortIntro":"\u003cul\u003e\n\u003cli\u003eCalculating shareholder return\u003c/li\u003e\n\u003cli\u003eWhat shareholder return tells you\u003c/li\u003e\n\u003cli\u003eHow it helps \u0026nbsp;\u003c/li\u003e\n\u003c/ul\u003e\n",
+                      "Title":"What is shareholder return?",
+                      "WrittenFor":[
+                         {
+                            "level":"intermediate",
+                            "asset":"shares"
+                         },
+                         {
+                            "level":"experienced",
+                            "asset":"shares"
+                         }
+                      ],
+                      "Levels":"Intermediate | Experienced",
+                      "ErrorMessages":[
+
+                      ]
+                   },
+                   {
+                      "CategoryId":"choosing-investments",
+                      "Date":"20 Feb 2014 02:34 PM",
+                      "Id":"how-do-i-get-the-right-mix-of-shares-",
+                      "ShortIntro":"\u003cul\u003e\n\u003cli\u003eHow shares differ\u003c/li\u003e\n\u003cli\u003eWhat are your options?\u003c/li\u003e\n\u003cli\u003eWays to reduce risk\u003cbr\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n",
+                      "Title":"How do I get the right mix of shares?",
+                      "WrittenFor":[
+                         {
+                            "level":"intermediate",
+                            "asset":"shares"
+                         },
+                         {
+                            "level":"experienced",
+                            "asset":"shares"
+                         }
+                      ],
+                      "Levels":"Intermediate | Experienced",
+                      "ErrorMessages":[
+
+                      ]
+                   }
+                ]
+        },
+        "__type__": "JsonObject"
+    },
+    "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 25 Jul 2014 00:50:48 GMT",
+        "Content-Length": "17449",
+        "Cache-Control": "private",
+        "__type__": "Map"
+    },
+    "success": true,
+    "sid": "39d1634bbe0c404ca38aaec25984c094"
+}

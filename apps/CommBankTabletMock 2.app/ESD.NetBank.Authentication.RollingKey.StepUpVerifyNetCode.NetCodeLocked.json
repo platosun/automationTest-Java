@@ -1,0 +1,11 @@
+{
+    "isSessionTimeout": false,
+    "errorMessages": [
+                      "Account locked: For your security we have locked your access to NetBank. Please call us on 13 2221 at any time for assistance."
+                      ],
+    "warningMessages": [
+    
+    ],
+    "enableLogging": false,
+    "token": null
+}

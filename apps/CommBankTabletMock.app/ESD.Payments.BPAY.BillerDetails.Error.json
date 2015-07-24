@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "type": "Error",
+            "code": "",
+            "description": "Fail to retrieve biller details."
+        }
+    ]
+}

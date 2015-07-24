@@ -1,0 +1,25 @@
+{
+    "bills": [
+              {
+              "id": "201502101008",
+              "haveBillDetailsBeenRead": false,
+              "billerNickname": "ERGON ENERGY QLD",
+              "billerCode": "1552",
+              "billerName": "ERGON ENERGY QUEENSLAND PTY LTD",
+              "crn": "642314295",
+              "registrationNumber": "642314296",
+              "detailUrl": "https://www.testsecure.cardlink.com.au/Test_Bill.pdf",
+              "enableUrl": false,
+              "isMandatoryRead": false,
+              "paymentDate": "25/03/2015",
+              "paymentDueDate": "25/03/2015",
+              "paymentStatus": "UNPAID",
+              "paymentMinAmountDue": 49,
+              "paymentTotalAmountDue": 255
+              }
+              ],
+    "isSessionTimeout": false,
+    "isUnsafeActionDetected": false,
+    "errorMessages": [],
+    "warningMessages": []
+}

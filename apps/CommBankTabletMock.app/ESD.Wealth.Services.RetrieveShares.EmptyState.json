@@ -1,0 +1,24 @@
+{  
+   "TotalValue":"$0.00",
+   "TodaysChange":"$0.00",
+   "TodaysMovement":"flat",
+   "TodaysPercentage":"0.00%",
+   "TotalProfitLoss":"$0.00",
+   "TotalProfitMovement":"flat",
+   "TotalProfitPercentage":"0.00%",
+   "Accounts":[  
+      {  
+         "TotalValue":"$0.00",
+         "AccountType":"ofi",
+         "AccountNumber":null,
+         "Shares":[  
+
+         ]
+      }
+   ],
+   "PriceTimestamp":"13 MAY 2015 - 2:09 PM Sydney Time (20min delayed)",
+   "CorrelationId":"6bdd49a1-5f93-442f-9689-944bf1e8e1eb",
+   "ErrorMessages":[  
+
+   ]
+}

@@ -1,0 +1,8 @@
+{
+"pageName": "receipt", 
+"section": "payments", 
+"subSection": "bpay", 
+"subSubSection": "pay-recurring", 
+"tag": "done-button", 
+"controlType": "button"
+}

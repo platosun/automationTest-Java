@@ -1,0 +1,6 @@
+{
+"pageName": "scheduled-transactions", 
+"section": "payments", 
+"tag": "bsb-pay-button", 
+"controlType": "button"
+}

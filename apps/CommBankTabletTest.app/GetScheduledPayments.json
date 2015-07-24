@@ -1,0 +1,55 @@
+{
+    "ScheduledPayments": [{
+                          "Id": "20251536",
+                          "FromAccount": {
+                          "AccountName": "Smart Access",
+                          "AccountNumber": "062-000 14925342",
+                          "AccountNumberUnformatted": "06200014925342",
+                          "AccountNumberHash": "b7524f73a58bbe81d7f12f1f4dd7c5930a2709fa",
+                          "Description": "Weekly savings"
+                          },
+                          "ToAccount": {
+                          "AccountName": "Our Online Saver",
+                          "AccountNumber": "062-000 14928674",
+                          "AccountNumberUnformatted": "06200014928674",
+                          "AccountNumberHash": "a6f84ccc093773da47600760d43ebf8997b7a99d",
+                          "Description": "from CA"
+                          },
+                          "IsBPay": false,
+                          "IsGroup": false,
+                          "Amount": 150.55,
+                          "NextTransferDate": "16/03/2015",
+                          "FirstTransferDate": "16/02/2015",
+                          "LastTransferDate": "25/01/2016",
+                          "RemainingTransfers": 46,
+                          "PaymentType": "Transfer",
+                          "TransferFrequency": "Weekly"
+                          }, {
+                          "Id": "20251565",
+                          "FromAccount": {
+                          "AccountName": "Smart Access",
+                          "AccountNumber": "062-000 14925342",
+                          "AccountNumberHash": "b7524f73a58bbe81d7f12f1f4dd7c5930a2709fa",
+                          "Description": "BPAY SCHEDULE"
+                          },
+                          "ToBiller": {
+                          "BillerCode": "3186",
+                          "BillerName": "CITY OF MITCHAM",
+                          "BillerNickname": "CITY OF MITCHAM",
+                          "Crn": "262968"
+                          },
+                          "IsBPay": true,
+                          "IsGroup": false,
+                          "Amount": 12.0,
+                          "NextTransferDate": "27/03/2015",
+                          "FirstTransferDate": "27/02/2015",
+                          "LastTransferDate": "08/05/2015",
+                          "RemainingTransfers": 4,
+                          "PaymentType": "Payment",
+                          "TransferFrequency": "Fortnightly"
+                          }],
+    "IsSessionTimeout": false,
+    "ErrorMessages": [],
+    "WarningMessages": [],
+    "IsUnsafeActionDetected": false
+}

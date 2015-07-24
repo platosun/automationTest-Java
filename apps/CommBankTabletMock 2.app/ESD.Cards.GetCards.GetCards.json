@@ -1,0 +1,108 @@
+{
+    "cards": [{
+                  "cardId": 916857971,
+                  "cardNumber": "5353161802486854",
+                  "unformattedCardNumber": "5353161802486854",
+                  "cardImageName": "LowRate_Master_Standard",
+                  "cardSequenceNumber": 1,
+                  "cardStatus": "inActive",
+                  "cardNumberHash": "e894a98816eb3901876598fd084f7cbbae6e0132",
+                  "linkedAccount": {
+                  "accountName": "MasterCard",
+                  "accountNumberHash": "e894a98816eb3901876598fd084f7cbbae6e0132",
+                  "availableFunds": [{
+                      "amount": 5000.00,
+                      "currency": "AUD"
+                  }]
+              }
+              },
+              {
+                  "cardId": 1141967462,
+                  "cardNumber": "5353161802505992",
+                  "unformattedCardNumber": "5353161802505992",
+                  "cardImageName": "Awards_Spectrum_Master",
+                  "cardSequenceNumber": 1,
+                  "cardStatus": "Active",
+                  "cardNumberHash": "89e91cd96bafc8b6d7d00fbe1575ff349bfe37ee",
+                  "linkedAccount": {
+                      "accountName": "MasterCard",
+                      "accountNumberHash": "89e91cd96bafc8b6d7d00fbe1575ff349bfe37ee",
+                      "availableFunds": [{
+                      "amount": 10055.60,
+                      "currency": "AUD"
+                      }]
+                  }
+              },
+              {
+                  "cardId": 1992160456,
+                  "cardNumber": "5353185273112442",
+                  "unformattedCardNumber": "5353185273112442",
+                  "cardImageName": "Gold_Master",
+                  "cardSequenceNumber": 1,
+                  "cardStatus": "inactive",
+                  "cardNumberHash": "0ec94cbece83945cac700efda137cd6e9ccfc70f",
+                  "linkedAccount": {
+                      "accountName": "MasterCard Gold",
+                      "accountNumberHash": "0ec94cbece83945cac700efda137cd6e9ccfc70f",
+                      "availableFunds": [{
+                          "amount": 26402.75,
+                          "currency": "AUD"
+                      }]
+                  }
+              },
+              {
+              "cardId": 724797942,
+              "cardNumber": "375414180063448",
+              "unformattedCardNumber": "375414180063448",
+              "cardImageName": "Awards_Standard_Amex",
+              "cardSequenceNumber": 1,
+              "cardStatus": "Active",
+              "cardNumberHash": "cf1b9b8a1a3b26a728db58ef7bbbf622b85838d9"
+              },
+              {
+                  "cardId": 1081615675,
+                  "cardNumber": "5353161802506008",
+                  "unformattedCardNumber": "5353161802506008",
+                  "cardImageName": "Awards_Spectrum_Master",
+                  "cardSequenceNumber": 2,
+                  "cardStatus": "Active",
+                  "cardNumberHash": "f849c342ab9d770f1ad3d6dfc93d5699f9175c8a",
+                  "linkedAccount": {
+                      "accountName": "MasterCard",
+                      "accountNumberHash": "f849c342ab9d770f1ad3d6dfc93d5699f9175c8a",
+                      "availableFunds": [{
+                          "amount": 9934.84,
+                          "currency": "AUD"
+                      }]
+                  }
+              },
+              {
+                  "cardId": 1983882432,
+                  "cardNumber": "375414180063455",
+                  "unformattedCardNumber": "375414180063455",
+                  "cardImageName": "Awards_Standard_Amex",
+                  "cardSequenceNumber": 2,
+                  "cardStatus": "Active",
+                  "cardNumberHash": "b12cfb54947d5b49882b5709a1123e2f71e1c96e"
+              },
+              {
+                  "cardId": 442472947,
+                  "cardNumber": "375414180063463",
+                  "unformattedCardNumber": "375414180063463",
+                  "cardImageName": "Awards_Standard_Amex",
+                  "cardSequenceNumber": 2,
+                  "cardStatus": "Active",
+                  "cardNumberHash": "d63c6eec1dd8613b061de88d3bd7f695d3f872f7"
+              },
+              {
+                  "cardId": 2028759866,
+                  "cardNumber": "375414180063471",
+                  "unformattedCardNumber": "375414180063471",
+                  "cardImageName": "Awards_Standard_Amex",
+                  "cardSequenceNumber": 2,
+                  "cardStatus": "Active",
+                  "cardNumberHash": "edad352b3d3a9a7ec4510e9366a5d5834b311aa8"
+              }],
+    "isSessionTimeout": false,
+    "isUnsafeActionDetected": false
+}

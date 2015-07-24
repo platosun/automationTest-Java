@@ -1,0 +1,56 @@
+{
+    "scheduledPayments":[
+                         {
+                         "id":"1",
+                         "fromAccount":{
+                         "accountNumber":"123456789",
+                         "description":"Rent"
+                         },
+                         "toAccount":{
+                         "accountName":"Davyd Geyl",
+                         "accountNumber":"987654321",
+                         "description":"Rent from tenant",
+                         "groupName":"Group1"
+                         },
+                         "toBiller":null,
+                         "items":[
+                                  {
+                                  "itemDate":"19/02/2015"
+                                  }
+                                  ],
+                         "isBPay":false,
+                         "isGroup":true,
+                         "amount":500,
+                         "transferFrequency":1
+                         },
+                         {
+                         "id":"2",
+                         "fromAccount":{
+                         "accountName":"Aries Ng",
+                         "accountNumber":"9876543333",
+                         "accountNumberHash":"AB2235HAFDF",
+                         "description":"Telstra bill"
+                         },
+                         "toAccount":null,
+                         "toBiller":{
+                         "billerCode":"7799",
+                         "billerName":"TELSTRA MOBILE",
+                         "billerNickname":"Telstra",
+                         "crn":"#233565898998"
+                         },
+                         "items":[
+                                  {
+                                  "itemDate":"21/02/2015"
+                                  }
+                                  ],
+                         "isBPay":true,
+                         "isGroup":false,
+                         "amount":65,
+                         "transferFrequency":3
+                         }
+                         ],
+    "isSessionTimeout":false,
+    "isUnsafeActionDetected":false,
+    "errorMessages":[],
+    "warningMessages":[]
+}

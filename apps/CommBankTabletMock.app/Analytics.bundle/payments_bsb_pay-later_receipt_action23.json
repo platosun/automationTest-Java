@@ -1,0 +1,8 @@
+{
+"pageName": "receipt", 
+"section": "payments", 
+"subSection": "bsb", 
+"subSubSection": "pay-later", 
+"tag": "share-receipt-button", 
+"controlType": "button"
+}

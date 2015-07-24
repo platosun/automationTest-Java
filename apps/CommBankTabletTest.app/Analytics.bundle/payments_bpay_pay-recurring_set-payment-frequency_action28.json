@@ -1,0 +1,8 @@
+{
+"pageName": "set-payment-frequency", 
+"section": "payments", 
+"subSection": "bpay", 
+"subSubSection": "pay-recurring", 
+"tag": "weekly-button", 
+"controlType": "button"
+}

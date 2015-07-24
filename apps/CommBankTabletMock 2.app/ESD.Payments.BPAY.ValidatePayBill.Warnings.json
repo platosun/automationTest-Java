@@ -1,0 +1,31 @@
+{
+    "messages": [
+                 {
+                 "type": "Warning",
+                 "code": "",
+                 "description": "ValidatePayBill Warning Message #1  From Mock File"},
+                 {
+                 "type": "Warning",
+                 "code": "",
+                 "description": "ValidatePayBill Warning Message #2 From Mock File"},
+                 {
+                 "type": "Information",
+                 "code": "",
+                 "description": "ValidatePayBill Information Message #1 From Mock File"},
+                 {
+                 "type": "Information",
+                 "code": "",
+                 "description": "ValidatePayBill Information Message #2 From Mock File"}
+                 ],
+    "receiptNumber": "N120442510013",
+	"schedule": {
+		"firstPaymentDate": "20150430",
+		"lastPaymentDate": "20151225",
+		"numberOfPayments": "5",
+		"frequency": "Last Day of Month",
+		"paymentScheduleType": null
+	},
+    "isBalanceRefreshRequired": false,
+    "isSecondAuthorisationRequired": false,
+    "isStepUpRequired": false,
+}

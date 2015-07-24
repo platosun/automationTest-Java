@@ -1,0 +1,6 @@
+{
+"pageName": "settings", 
+"section": "dashboard", 
+"tag": "auto-log-off-15-min-button", 
+"controlType": "button"
+}

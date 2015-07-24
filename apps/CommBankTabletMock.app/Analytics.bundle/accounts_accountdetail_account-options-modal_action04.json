@@ -1,0 +1,8 @@
+{
+"pageName": "account-detail", 
+"section": "accounts", 
+"subSection": "account-options-modal", 
+"tag": "manage-my-accounts-link",
+"controlType": "text-link"
+}
+

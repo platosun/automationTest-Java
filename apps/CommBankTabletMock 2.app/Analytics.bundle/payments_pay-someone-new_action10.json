@@ -1,0 +1,7 @@
+{
+    "pageName": "payment-confirm",
+    "section": "payments",
+    "subSection": "pay-someone-new",
+    "tag": "make-recurring",
+    "controlType": "button"
+}

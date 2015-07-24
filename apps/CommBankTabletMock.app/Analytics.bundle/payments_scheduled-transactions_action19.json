@@ -1,0 +1,6 @@
+{
+"pageName": "scheduled-transactions", 
+"section": "payments", 
+"tag": "skip-transfer-confirm", 
+"controlType": "button"
+}

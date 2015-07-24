@@ -1,0 +1,16 @@
+{
+    "messages": null,
+    "pagingKey": "MDA1MDU2OTQxMjZCMUVEM0E0REJFN0U0QTA1RURERkMsMDAxLDIwMTQtMDItMDQsNzc4NS41MSxBVUQsQ1IsMjAxNDAyMTEwNTQyMDkuNzg3Njg4MSxTQVAs",
+    "transactions": [
+                     {
+                     "amount": -200,
+                     "amountCurrencyCode": "AUD",
+                     "description": "Transfer to xx4745 NetBank\r\nghshh",
+                     "runningTotal": 1000.00,
+                     "runningTotalCurrencyCode": "AUD",
+                     "transactionDate": "2014-02-04T00:00:00",
+                     "transactionId": "201402110542097876881",
+                     "transactionType": null
+                     }
+                     ]
+}

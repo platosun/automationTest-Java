@@ -1,0 +1,463 @@
+{
+    "accounts": [
+        {
+            "accountId": 454709482,
+            "accountNumber": "06203210195029",
+            "formattedAccountNumber": "062032 1019 5029",
+            "accountNumberHash": "f7ad6bc265c2105b776fe5f23833ecd69fe539b8",
+            "accountName": "First Home Saver",
+            "productCode": "DDA",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanViewTransactions",
+                    "value": true
+                },
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsSimpleBalance",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsTransactional",
+                    "value": true
+                }
+            ],
+            "balances": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "availableFunds": null,
+            "isOneToSign": true
+        },
+        {
+            "accountId": 433919603,
+            "accountNumber": "06216110391922",
+            "formattedAccountNumber": "062161 1039 1922",
+            "accountNumberHash": "7e31191b274f58e0378e413f173efe19de590e5e",
+            "accountName": "First Home Saver",
+            "productCode": "DDA",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanViewTransactions",
+                    "value": true
+                },
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsSimpleBalance",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsTransactional",
+                    "value": true
+                }
+            ],
+            "balances": [
+                {
+                    "amount": 12570.38,
+                    "currency": "AUD"
+                }
+            ],
+            "availableFunds": null,
+            "isOneToSign": true
+        },
+        {
+            "accountId": 847484844,
+            "accountNumber": "06216110060058",
+            "formattedAccountNumber": "062161 1006 0058",
+            "accountNumberHash": "638cce9ed25163fe7a4de5158608665d8800cf2c",
+            "accountName": "Streamline",
+            "productCode": "DDA",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanViewTransactions",
+                    "value": true
+                },
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                },
+                {
+                    "key": "CanBpayFrom",
+                    "value": true
+                },
+                {
+                    "key": "CanTransferFrom",
+                    "value": true
+                },
+                {
+                    "key": "CanCardlessCashFrom",
+                    "value": true
+                },
+                {
+                    "key": "CanOrderStickerFrom",
+                    "value": true
+                },
+                {
+                    "key": "CanFundStickerFrom",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsSimpleBalance",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsDefault",
+                    "value": true
+                },
+                {
+                    "key": "CanP2PFrom",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsTransactional",
+                    "value": true
+                },
+                {
+                    "key": "IsDefaultDepositAccount",
+                    "value": true
+                },
+                {
+                    "key": "IsSimpleBalanceAccount",
+                    "value": true
+                }
+            ],
+            "balances": [
+                {
+                    "amount": 455.77,
+                    "currency": "AUD"
+                }
+            ],
+            "availableFunds": [
+                {
+                    "amount": 455.77,
+                    "currency": "AUD"
+                }
+            ],
+            "isOneToSign": true
+        },
+        {
+            "accountId": 861396276,
+            "accountNumber": "3400001",
+            "formattedAccountNumber": "3400001",
+            "accountNumberHash": "10228cb1fd51fa80cb2e570a66a5d70433557eb0",
+            "accountName": "CommSec Shares",
+            "productCode": "CSL",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsSimpleBalance",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsBusiness",
+                    "value": true
+                }
+            ],
+            "balances": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "availableFunds": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "isOneToSign": true
+        },
+        {
+            "accountId": 442565638,
+            "accountNumber": "3400010",
+            "formattedAccountNumber": "3400010",
+            "accountNumberHash": "5ad2096bb6bfd6c83c78bc8535e3ef2a3651aa71",
+            "accountName": "CommSec Shares",
+            "productCode": "CSL",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsSimpleBalance",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsBusiness",
+                    "value": true
+                }
+            ],
+            "balances": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "availableFunds": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "isOneToSign": true
+        },
+        {
+            "accountId": 1169356107,
+            "accountNumber": "3402017",
+            "formattedAccountNumber": "3402017",
+            "accountNumberHash": "d5f466838e0ef354480f48a43f784de9d64f1079",
+            "accountName": "CommSec Shares",
+            "productCode": "CSL",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsSimpleBalance",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsBusiness",
+                    "value": true
+                }
+            ],
+            "balances": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "availableFunds": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "isOneToSign": true
+        },
+        {
+            "accountId": 1532751344,
+            "accountNumber": "3403017",
+            "formattedAccountNumber": "3403017",
+            "accountNumberHash": "65dd068f10f3b9a0728331811a3e0abde0e97837",
+            "accountName": "CommSec Shares",
+            "productCode": "CSL",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsSimpleBalance",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsBusiness",
+                    "value": true
+                }
+            ],
+            "balances": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "availableFunds": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "isOneToSign": true
+        },
+        {
+            "accountId": 1613092848,
+            "accountNumber": "3502017",
+            "formattedAccountNumber": "3502017",
+            "accountNumberHash": "b810207506cd98678d96719c8dd0a4ae64a878a7",
+            "accountName": "CommSec Shares",
+            "productCode": "CSL",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsSimpleBalance",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsBusiness",
+                    "value": true
+                }
+            ],
+            "balances": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "availableFunds": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "isOneToSign": true
+        },
+        {
+            "accountId": 1706547738,
+            "accountNumber": "3603017",
+            "formattedAccountNumber": "3603017",
+            "accountNumberHash": "7bf512361af6425697ee98766df6e51b1b945e1f",
+            "accountName": "CommSec Shares",
+            "productCode": "CSL",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsSimpleBalance",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsBusiness",
+                    "value": true
+                }
+            ],
+            "balances": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "availableFunds": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "isOneToSign": true
+        },
+        {
+            "accountId": 479188011,
+            "accountNumber": "067979000006713",
+            "formattedAccountNumber": "067979000006713",
+            "accountNumberHash": "6091441cce99b9b161affd45d1e6357fc438e015",
+            "accountName": "Essential Super",
+            "productCode": "DDA",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsSavings",
+                    "value": true
+                }
+            ],
+            "balances": null,
+            "availableFunds": null,
+            "isOneToSign": true
+        },
+        {
+            "accountId": 442565634,
+            "accountNumber": "3400014",
+            "formattedAccountNumber": "3400014",
+            "accountNumberHash": "5d510d78271baa978d1739e0116bdeb4eecad227",
+            "accountName": "CommSec Shares",
+            "productCode": "CSL",
+            "accountGroup": null,
+            "travelMoneyCardNumbers": null,
+            "actionsAllowed": [
+                {
+                    "key": "CanEnquire",
+                    "value": true
+                },
+                {
+                    "key": "CanSetAsSimpleBalance",
+                    "value": true
+                }
+            ],
+            "accountTypes": [
+                {
+                    "key": "IsBusiness",
+                    "value": true
+                }
+            ],
+            "balances": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "availableFunds": [
+                {
+                    "amount": 0,
+                    "currency": "AUD"
+                }
+            ],
+            "isOneToSign": true
+        }
+    ],
+    "summaryBalances": {
+        "totalDebits": 0,
+        "totalCredits": 13026.15,
+        "netPosition": 13026.15
+    },
+    "messages": null
+}

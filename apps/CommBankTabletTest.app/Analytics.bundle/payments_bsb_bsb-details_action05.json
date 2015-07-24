@@ -1,0 +1,7 @@
+{
+"pageName": "bsb-details", 
+"section": "payments", 
+"subSection": "bsb", 
+"tag": "back-button", 
+"controlType": "button"
+}

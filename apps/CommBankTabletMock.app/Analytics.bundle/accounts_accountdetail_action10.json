@@ -1,0 +1,6 @@
+{
+ "pageName": "account-detail", 
+ "section": "accounts", 
+ "tag": "view-scheduled-transactions-button",
+ "controlType": "button"
+ }

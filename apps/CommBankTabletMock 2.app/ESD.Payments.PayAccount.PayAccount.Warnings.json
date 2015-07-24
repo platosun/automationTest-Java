@@ -1,0 +1,121 @@
+{
+    "messages": [
+                 {
+                 "type": "Warning",
+                 "code": "",
+                 "description": "Pay Account Warning Message #1  From Mock File"},
+                 {
+                 "type": "Warning",
+                 "code": "",
+                 "description": "Pay Account Warning Message #2 From Mock File"},
+                 {
+                 "type": "Information",
+                 "code": "",
+                 "description": "Pay Account Information Message #1 From Mock File"},
+                 {
+                 "type": "Information",
+                 "code": "",
+                 "description": "Pay Account Information Message #2 From Mock File"}
+                 ],
+    "receiptNumber": "N033150513063",
+    "availableBalance": 0.0,
+    "isSuccess": true,
+    "transactionDateTime": "31 Mar 2015 06:06:46 PM",
+    "balances": [{
+                 "accountId": 2076627569,
+                 "bsb": null,
+                 "accountNumber": "06200012645267",
+                 "balance": 10.24,
+                 "availableBalance": 9.06
+                 }, {
+                 "accountId": 509741653,
+                 "bsb": null,
+                 "accountNumber": "06269210042649",
+                 "balance": 995.00,
+                 "availableBalance": 990.00
+                 }, {
+                 "accountId": 1316310804,
+                 "bsb": null,
+                 "accountNumber": "06269210042657",
+                 "balance": -80.85,
+                 "availableBalance": -80.85
+                 }, {
+                 "accountId": 1338664124,
+                 "bsb": null,
+                 "accountNumber": "06269210043078",
+                 "balance": 10.00,
+                 "availableBalance": 10.00
+                 }, {
+                 "accountId": 1437273565,
+                 "bsb": null,
+                 "accountNumber": "06269210043086",
+                 "balance": 49100.60,
+                 "availableBalance": 49100.60
+                 }, {
+                 "accountId": 1154948365,
+                 "bsb": null,
+                 "accountNumber": "06269210043262",
+                 "balance": 5000.00,
+                 "availableBalance": 5000.00
+                 }, {
+                 "accountId": 1013267121,
+                 "bsb": null,
+                 "accountNumber": "06269210051959",
+                 "balance": 40015.00,
+                 "availableBalance": 40015.00
+                 }, {
+                 "accountId": 1453748447,
+                 "bsb": null,
+                 "accountNumber": "06269210065453",
+                 "balance": 3616500.88,
+                 "availableBalance": 3516460.53
+                 }, {
+                 "accountId": 15529123,
+                 "bsb": null,
+                 "accountNumber": "06269210068865",
+                 "balance": 1716.99,
+                 "availableBalance": 999.00
+                 }, {
+                 "accountId": 458607145,
+                 "bsb": null,
+                 "accountNumber": "06799018047480",
+                 "balance": 150000.00,
+                 "availableBalance": 150000.00
+                 }, {
+                 "accountId": 85839980,
+                 "bsb": null,
+                 "accountNumber": "06799018047595",
+                 "balance": 50000.00,
+                 "availableBalance": 50000.00
+                 }, {
+                 "accountId": 112483168,
+                 "bsb": null,
+                 "accountNumber": "4564095200000016",
+                 "balance": 0.00,
+                 "availableBalance": 15000.00
+                 }, {
+                 "accountId": 965951259,
+                 "bsb": null,
+                 "accountNumber": "06200050802972",
+                 "balance": 400000.00,
+                 "availableBalance": 0.00
+                 }, {
+                 "accountId": 230339841,
+                 "bsb": null,
+                 "accountNumber": "06200050809146",
+                 "balance": 50000.00,
+                 "availableBalance": 0.00
+                 }, {
+                 "accountId": 38584828,
+                 "bsb": null,
+                 "accountNumber": "06269250010078",
+                 "balance": 105020.88,
+                 "availableBalance": 0.00
+                 }, {
+                 "accountId": 2041452834,
+                 "bsb": null,
+                 "accountNumber": "06269250010836",
+                 "balance": 505050.00,
+                 "availableBalance": 0.00
+                 }]
+}

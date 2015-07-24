@@ -1,0 +1,7 @@
+{
+    "pageName": "payment-error-warn",
+    "section": "payments",
+    "subSection": "pay-someone-new",
+    "tag": "continue",
+    "controlType": "button"
+}

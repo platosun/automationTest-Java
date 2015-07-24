@@ -1,0 +1,12 @@
+{
+    "rollingKeySeed": "6d1ab3e78d3111011ecbb08cac2a16ebzzzzzzzz",
+    "isSessionTimeout": false,
+    "errorMessages": [
+                      "Registration error : We can't complete your registration because the mobile number on your profile isn't recognised or is an international number. To continue registering, please call 13 2221 at any time to update your mobile number."
+                      ],
+    "warningMessages": [
+    
+    ],
+    "enableLogging": false,
+    "token": null
+}

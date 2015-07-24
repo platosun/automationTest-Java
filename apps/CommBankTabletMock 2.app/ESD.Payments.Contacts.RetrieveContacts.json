@@ -1,0 +1,233 @@
+{
+    "accounts": [
+                 {
+                 "beneficiaryId": "20095445",
+                 "beneficiaryName": "Add New Transfer",
+                 "bsb": "062000",
+                 "accountNumber": "555452114",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20019014",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095448",
+                 "beneficiaryName": "Addy edit",
+                 "bsb": "062000",
+                 "accountNumber": "566566566",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20019017",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095458",
+                 "beneficiaryName": "FDGFDGDFG",
+                 "bsb": "062000",
+                 "accountNumber": "234565565",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20017509",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095450",
+                 "beneficiaryName": "Linked",
+                 "bsb": "012345",
+                 "accountNumber": "3456789",
+                 "productType": null,
+                 "financialInstitutionType": "OFI",
+                 "contactType": "account",
+                 "payeeId": "20019019",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095451",
+                 "beneficiaryName": "New",
+                 "bsb": "062000",
+                 "accountNumber": "656565454",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20019020",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095452",
+                 "beneficiaryName": "Pavvic",
+                 "bsb": "012172",
+                 "accountNumber": "390643318",
+                 "productType": null,
+                 "financialInstitutionType": "OFI",
+                 "contactType": "account",
+                 "payeeId": "20019021",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095454",
+                 "beneficiaryName": "Saver",
+                 "bsb": "062128",
+                 "accountNumber": "10500087",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20019023",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095455",
+                 "beneficiaryName": "Schedule",
+                 "bsb": "062000",
+                 "accountNumber": "656562344",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20019024",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095456",
+                 "beneficiaryName": "Smart",
+                 "bsb": "062128",
+                 "accountNumber": "20494115",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20019025",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095457",
+                 "beneficiaryName": "Test",
+                 "bsb": "062033",
+                 "accountNumber": "10255658",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20019026",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095447",
+                 "beneficiaryName": "addy",
+                 "bsb": "062000",
+                 "accountNumber": "625656565",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20019016",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095446",
+                 "beneficiaryName": "addy",
+                 "bsb": "062000",
+                 "accountNumber": "262561411",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20019015",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20094889",
+                 "beneficiaryName": "anita",
+                 "bsb": "062000",
+                 "accountNumber": "1898157",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20018523",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20094850",
+                 "beneficiaryName": "annita",
+                 "bsb": "056789",
+                 "accountNumber": "6756565",
+                 "productType": null,
+                 "financialInstitutionType": "OFI",
+                 "contactType": "account",
+                 "payeeId": "20018522",
+                 "companyCode": "CBA"
+                 },
+                 {
+                 "beneficiaryId": "20095449",
+                 "beneficiaryName": "harish",
+                 "bsb": "062000",
+                 "accountNumber": "65669666",
+                 "productType": null,
+                 "financialInstitutionType": "CBA",
+                 "contactType": "account",
+                 "payeeId": "20019018",
+                 "companyCode": "CBA"
+                 }
+                 ],
+    "billers": [
+                {
+                "utilityId": "20088736",
+                "billerCode": "88088",
+                "billerName": "AGL RETAIL ENERGY LTD",
+                "nickName": "hjgghghgkhg",
+                "customerReferenceNumber": "974352349085025942",
+                "isVariableCRN": false,
+                "billPayViewIndicator": false,
+                "billPayViewRegistrationNumber": null,
+                "contactType": "biller",
+                "payeeId": "20019074",
+                "companyCode": "CBA"
+                },
+                {
+                "utilityId": "2009999",
+                "billerCode": "880999",
+                "billerName": "Sydney Water (vCRN)",
+                "nickName": "Sydney Water (vCRN)",
+                "customerReferenceNumber": null,
+                "isVariableCRN": true,
+                "billPayViewIndicator": false,
+                "billPayViewRegistrationNumber": null,
+                "contactType": "biller",
+                "payeeId": "123456",
+                "companyCode": "CBA"
+                }
+                ],
+    "emails": [
+               {
+               "socialContactId": "10014006",
+               "socialContactType": "Email",
+               "contactDetails": "prakash.ramalingam@cba.com.au",
+               "contactType": "social",
+               "payeeId": "20017509",
+               "companyCode": "CBA"
+               },
+               {
+               "socialContactId": "10014005",
+               "socialContactType": "Mobile",
+               "contactDetails": "0412345678",
+               "contactType": "social",
+               "payeeId": "20017509",
+               "companyCode": "CBA"
+               },
+               {
+               "socialContactId": "10014003",
+               "socialContactType": "Mobile",
+               "contactDetails": "0412345678",
+               "contactType": "social",
+               "payeeId": "20019014",
+               "companyCode": "CBA"
+               },
+               {
+               "socialContactId": "10014004",
+               "socialContactType": "Email",
+               "contactDetails": "gokula.rajendran@cba.com.au",
+               "contactType": "social",
+               "payeeId": "20019014",
+               "companyCode": "CBA"
+               }
+               ],
+    "mobiles": [],
+    "messages": []
+}

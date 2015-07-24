@@ -1,0 +1,32 @@
+{
+	"ModifiedScheduledPayment": {
+		"Id": "20253369",
+		"FromAccount": {
+			"AccountName": "Complete Access",
+			"AccountNumber": "062-000 14751573",
+			"AccountNumberUnformatted": "06200014751573",
+			"AccountNumberHash": "ca9be4b3487e1431b76e2524c3939b9b69a152e9",
+			"Description": "Savings"
+		},
+		"ToAccount": {
+			"AccountName": "AccoutnName",
+			"AccountNumber": "062-000 32119987",
+			"AccountNumberHash": "e010ccb0ef84cb15c19c1a60fc10ef73b832c24e",
+			"Description": "Savings",
+			"AccountNumberUnformatted": "06200032119987"
+		},
+		"IsBPay": false,
+		"IsGroup": false,
+		"Amount": 2.00,
+		"NextTransferDate": "26/04/2015",
+		"FirstTransferDate": "19/04/2015",
+		"LastTransferDate": "16/03/2017",
+		"RemainingTransfers": 104,
+		"PaymentType": "Payment",
+		"TransferFrequency": "Weekly"
+	},
+	"IsSessionTimeout": false,
+	"ErrorMessages": [],
+	"WarningMessages": [],
+	"IsUnsafeActionDetected": false
+}

@@ -1,0 +1,7 @@
+{
+    "magicId": "2093hdwkjh2d092wdho2oihn",
+    "messages": [],
+    "broadcastMessages" :[{"messageId"     : 324,
+                          "messageContent" : "This is a test broadcast message for registration",
+                          "quarter"        : "temp"}]
+}

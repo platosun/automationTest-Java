@@ -1,0 +1,8 @@
+{
+"pageName": "set-number-payments", 
+"section": "payments", 
+"subSection": "transfer", 
+"subSubSection": "pay-recurring", 
+"tag": "next-button", 
+"controlType": "button"
+}

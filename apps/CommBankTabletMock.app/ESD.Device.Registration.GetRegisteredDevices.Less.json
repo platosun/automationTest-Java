@@ -1,0 +1,15 @@
+{
+    "devices": [{
+                "appVersion": "1.0.0.1323",
+                "deviceType": "SM",
+                "deviceVendor": "Apple",
+                "deviceModel": "Simulator",
+                "deviceStatus": "Operational",
+                "deviceName": "My Simulator",
+                "osVersion": null,
+                "uniqueDeviceId": "TR2720251555",
+                "lastAuthenticationDate": "2015-03-21T03:23:31.5259788Z",
+                "os": 3
+                }],
+    "messages": []
+}

@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "type": "error",
+            "code": "get_cards",
+            "description": "Sorry, something went wrong for getting cards. Please try again later."
+        }
+    ]
+}

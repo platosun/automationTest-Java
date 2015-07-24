@@ -1,0 +1,188 @@
+{
+	"accounts": [{
+		"accountId": 700004111,
+		"bsb": "062005",
+		"accountNumberWithoutBsb": "10774466",
+		"accountNumber": "06200510774466",
+		"productCode": "DDA",
+		"formattedAccountNumber": "062005 1077 4466",
+		"accountNumberHash": "88ed1ab62cecf40b7c2812345678df7b9f2e3595",
+		"accountName": "Complete Access",
+		"accountGroup": null,
+		"travelMoneyCardNumbers": null,
+		"actionsAllowed": [{
+			"key": "CanViewTransactions",
+			"value": true
+		}, {
+			"key": "CanEnquire",
+			"value": true
+		}, {
+			"key": "CanBpayFrom",
+			"value": true
+		}, {
+			"key": "CanTransferFrom",
+			"value": true
+		}, {
+			"key": "CanTransferTo",
+			"value": true
+		}, {
+			"key": "CanCardlessCashFrom",
+			"value": true
+		}, {
+			"key": "CanOrderStickerFrom",
+			"value": true
+		}, {
+			"key": "CanFundStickerFrom",
+			"value": true
+		}, {
+			"key": "CanSetAsSimpleBalance",
+			"value": true
+		}, {
+			"key": "CanSetAsDefault",
+			"value": true
+		}, {
+			"key": "CanP2PFrom",
+			"value": true
+		}, {
+			"key": "CanRetrieveLinkedCards",
+			"value": true
+		}],
+		"accountTypes": [{
+			"key": "IsTransactional",
+			"value": true
+		}, {
+			"key": "IsDefaultDepositAccount",
+			"value": true
+		}, {
+			"key": "IsSimpleBalanceAccount",
+			"value": true
+		}],
+		"balances": [{
+			"amount": 156.85,
+			"currency": "AUD"
+		}],
+		"availableFunds": [{
+			"amount": 156.85,
+			"currency": "AUD"
+		}],
+		"isOneToSign": true,
+		"isNumberMasked": false
+	}, {
+		"accountId": 1136888885,
+		"bsb": "062692",
+		"accountNumberWithoutBsb": "17771111",
+		"accountNumber": "06269217771111",
+		"productCode": "DDA",
+		"formattedAccountNumber": "062692 1777 1111",
+		"accountNumberHash": "131c6c66b986f01273123450a400317770f8c607",
+		"accountName": "GoalSaver",
+		"accountGroup": null,
+		"travelMoneyCardNumbers": null,
+		"actionsAllowed": [{
+			"key": "CanViewTransactions",
+			"value": true
+		}, {
+			"key": "CanEnquire",
+			"value": true
+		}, {
+			"key": "CanBpayFrom",
+			"value": true
+		}, {
+			"key": "CanTransferFrom",
+			"value": true
+		}, {
+			"key": "CanTransferTo",
+			"value": true
+		}, {
+			"key": "CanSetAsSimpleBalance",
+			"value": true
+		}, {
+			"key": "CanSetAsDefault",
+			"value": true
+		}, {
+			"key": "CanP2PFrom",
+			"value": true
+		}, {
+			"key": "CanRetrieveLinkedCards",
+			"value": true
+		}],
+		"accountTypes": [{
+			"key": "IsTransactional",
+			"value": true
+		}],
+		"balances": [{
+			"amount": 12082.65,
+			"currency": "AUD"
+		}],
+		"availableFunds": [{
+			"amount": 12082.65,
+			"currency": "AUD"
+		}],
+		"isOneToSign": true,
+		"isNumberMasked": false
+	}, {
+		"accountId": 483948372,
+		"bsb": null,
+		"accountNumberWithoutBsb": "2446666",
+		"accountNumber": "2446666",
+		"productCode": "CSL",
+		"formattedAccountNumber": "2446666",
+		"accountNumberHash": "d3ab0b003c8bec28a70eb81234564d5d6a505abe",
+		"accountName": "CommSec Shares",
+		"accountGroup": null,
+		"travelMoneyCardNumbers": null,
+		"actionsAllowed": [{
+			"key": "CanEnquire",
+			"value": true
+		}, {
+			"key": "CanSetAsSimpleBalance",
+			"value": true
+		}],
+		"accountTypes": [{
+			"key": "IsBusiness",
+			"value": true
+		}],
+		"balances": [{
+			"amount": 0.00,
+			"currency": "AUD"
+		}],
+		"availableFunds": null,
+		"isOneToSign": true,
+		"isNumberMasked": false
+	},{
+		"accountId": 483948342,
+		"bsb": null,
+		"accountNumberWithoutBsb": "2556666",
+		"accountNumber": "2556666",
+		"productCode": "CSL",
+		"formattedAccountNumber": "2556666",
+		"accountNumberHash": "d3ab0b003c8bec28a70eb81234564d5d6a505ab3",
+		"accountName": "MyWealth Shares",
+		"accountGroup": null,
+		"travelMoneyCardNumbers": null,
+		"actionsAllowed": [{
+			"key": "CanEnquire",
+			"value": true
+		}, {
+			"key": "CanSetAsSimpleBalance",
+			"value": true
+		}],
+		"accountTypes": [{
+			"key": "IsBusiness",
+			"value": true
+		}],
+		"balances": [{
+			"amount": 0.00,
+			"currency": "AUD"
+		}],
+		"availableFunds": null,
+		"isOneToSign": true,
+		"isNumberMasked": false
+	}],
+	"summaryBalances": {
+		"totalDebits": 0.0,
+		"totalCredits": 12239.50,
+		"netPosition": 12239.50
+	},
+	"messages": null
+}

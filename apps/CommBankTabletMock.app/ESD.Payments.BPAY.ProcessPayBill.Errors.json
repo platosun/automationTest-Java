@@ -1,0 +1,20 @@
+{
+    "messages": [
+                 {
+                 "type": "Error",
+                 "code": "",
+                 "description": "ProcessPayBill Error Message From Mock File"},
+                 {
+                 "type": "Warning",
+                 "code": "",
+                 "description": "ProcessPayBill Warning Message #2 From Mock File"},
+                 {
+                 "type": "Information",
+                 "code": "",
+                 "description": "ProcessPayBill Information Message #1 From Mock File"},
+                 {
+                 "type": "Information",
+                 "code": "",
+                 "description": "ProcessPayBill Information Message #2 From Mock File"}
+                 ]
+}

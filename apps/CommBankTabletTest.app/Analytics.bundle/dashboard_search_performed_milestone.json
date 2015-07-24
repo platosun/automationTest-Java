@@ -1,0 +1,6 @@
+{
+  "pageName": "dashboard",
+  "section": "search",
+  "milestone": "internal-search",
+  "parameters": [ "searchterm", "suggestedsearchterm", "numberofresults" ]
+}

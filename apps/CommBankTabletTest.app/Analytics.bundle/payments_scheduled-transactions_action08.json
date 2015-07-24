@@ -1,0 +1,6 @@
+{
+"pageName": "scheduled-transactions", 
+"section": "payments", 
+"tag": "recurring-BSB-payment-detail- skip-payment", 
+"controlType": "button"
+}

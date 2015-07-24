@@ -1,0 +1,7 @@
+{
+"pageName": "receipt", 
+"section": "payments", 
+"subSection": "bpay", 
+"tag": "share-receipt-button", 
+"controlType": "button"
+}
